@@ -1,0 +1,6 @@
+location,total_records,valid_case_counts,missing_case_counts,negative_case_counts,duplicate_records,missing_weeks,valid_percentage
+TOTAL,156,107,49,0,0,0,68.59
+US RESIDENTS,156,107,49,0,0,0,68.59
+SOUTH ATLANTIC,156,81,75,0,0,0,51.92
+Total,90,66,24,0,0,0,73.33
+FLORIDA,156,52,104,0,0,0,33.33

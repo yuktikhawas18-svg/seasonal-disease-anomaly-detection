@@ -1,0 +1,1041 @@
+date,disease,location,case_count,population,source,ground_truth_anomaly,anomaly_type,data_quality_issue
+2022-01-03,Synthetic Dengue,Florida,31.0,500000,synthetic,False,NORMAL,NONE
+2022-01-10,Synthetic Dengue,Florida,31.0,500000,synthetic,False,NORMAL,NONE
+2022-01-17,Synthetic Dengue,Florida,34.0,500000,synthetic,False,NORMAL,NONE
+2022-01-24,Synthetic Dengue,Florida,38.0,500000,synthetic,False,NORMAL,NONE
+2022-01-31,Synthetic Dengue,Florida,34.0,500000,synthetic,False,NORMAL,NONE
+2022-02-07,Synthetic Dengue,Florida,35.0,500000,synthetic,False,NORMAL,NONE
+2022-02-14,Synthetic Dengue,Florida,42.0,500000,synthetic,False,NORMAL,NONE
+2022-02-21,Synthetic Dengue,Florida,40.0,500000,synthetic,False,NORMAL,NONE
+2022-02-28,Synthetic Dengue,Florida,37.0,500000,synthetic,False,NORMAL,NONE
+2022-03-07,Synthetic Dengue,Florida,41.0,500000,synthetic,False,NORMAL,NONE
+2022-03-14,Synthetic Dengue,Florida,38.0,500000,synthetic,False,NORMAL,NONE
+2022-03-21,Synthetic Dengue,Florida,39.0,500000,synthetic,False,NORMAL,NONE
+2022-03-28,Synthetic Dengue,Florida,41.0,500000,synthetic,False,NORMAL,NONE
+2022-04-04,Synthetic Dengue,Florida,35.0,500000,synthetic,False,NORMAL,NONE
+2022-04-11,Synthetic Dengue,Florida,35.0,500000,synthetic,False,NORMAL,NONE
+2022-04-18,Synthetic Dengue,Florida,38.0,500000,synthetic,False,NORMAL,NONE
+2022-04-25,Synthetic Dengue,Florida,37.0,500000,synthetic,False,NORMAL,NONE
+2022-05-02,Synthetic Dengue,Florida,40.0,500000,synthetic,False,NORMAL,NONE
+2022-05-09,Synthetic Dengue,Florida,36.0,500000,synthetic,False,NORMAL,NONE
+2022-05-16,Synthetic Dengue,Florida,34.0,500000,synthetic,False,NORMAL,NONE
+2022-05-23,Synthetic Dengue,Florida,42.0,500000,synthetic,False,NORMAL,NONE
+2022-05-30,Synthetic Dengue,Florida,36.0,500000,synthetic,False,NORMAL,NONE
+2022-06-06,Synthetic Dengue,Florida,36.0,500000,synthetic,False,NORMAL,NONE
+2022-06-13,Synthetic Dengue,Florida,30.0,500000,synthetic,False,NORMAL,NONE
+2022-06-20,Synthetic Dengue,Florida,31.0,500000,synthetic,False,NORMAL,NONE
+2022-06-27,Synthetic Dengue,Florida,32.0,500000,synthetic,False,NORMAL,NONE
+2022-07-04,Synthetic Dengue,Florida,27.0,500000,synthetic,False,NORMAL,NONE
+2022-07-11,Synthetic Dengue,Florida,31.0,500000,synthetic,False,NORMAL,NONE
+2022-07-18,Synthetic Dengue,Florida,27.0,500000,synthetic,False,NORMAL,NONE
+2022-07-25,Synthetic Dengue,Florida,26.0,500000,synthetic,False,NORMAL,NONE
+2022-08-01,Synthetic Dengue,Florida,24.0,500000,synthetic,False,NORMAL,NONE
+2022-08-08,Synthetic Dengue,Florida,31.0,500000,synthetic,False,NORMAL,NONE
+2022-08-15,Synthetic Dengue,Florida,24.0,500000,synthetic,False,NORMAL,NONE
+2022-08-22,Synthetic Dengue,Florida,20.0,500000,synthetic,False,NORMAL,NONE
+2022-08-29,Synthetic Dengue,Florida,25.0,500000,synthetic,False,NORMAL,NONE
+2022-09-05,Synthetic Dengue,Florida,19.0,500000,synthetic,False,NORMAL,NONE
+2022-09-12,Synthetic Dengue,Florida,22.0,500000,synthetic,False,NORMAL,NONE
+2022-09-19,Synthetic Dengue,Florida,16.0,500000,synthetic,False,NORMAL,NONE
+2022-09-26,Synthetic Dengue,Florida,17.0,500000,synthetic,False,NORMAL,NONE
+2022-10-03,Synthetic Dengue,Florida,22.0,500000,synthetic,False,NORMAL,NONE
+2022-10-10,Synthetic Dengue,Florida,23.0,500000,synthetic,False,NORMAL,NONE
+2022-10-17,Synthetic Dengue,Florida,22.0,500000,synthetic,False,NORMAL,NONE
+2022-10-24,Synthetic Dengue,Florida,22.0,500000,synthetic,False,NORMAL,NONE
+2022-10-31,Synthetic Dengue,Florida,22.0,500000,synthetic,False,NORMAL,NONE
+2022-11-07,Synthetic Dengue,Florida,19.0,500000,synthetic,False,NORMAL,NONE
+2022-11-14,Synthetic Dengue,Florida,22.0,500000,synthetic,False,NORMAL,NONE
+2022-11-21,Synthetic Dengue,Florida,23.0,500000,synthetic,False,NORMAL,NONE
+2022-11-28,Synthetic Dengue,Florida,29.0,500000,synthetic,False,NORMAL,NONE
+2022-12-05,Synthetic Dengue,Florida,28.0,500000,synthetic,False,NORMAL,NONE
+2022-12-12,Synthetic Dengue,Florida,23.0,500000,synthetic,False,NORMAL,NONE
+2022-12-19,Synthetic Dengue,Florida,30.0,500000,synthetic,False,NORMAL,NONE
+2022-12-26,Synthetic Dengue,Florida,29.0,500000,synthetic,False,NORMAL,NONE
+2023-01-02,Synthetic Dengue,Florida,30.0,500000,synthetic,False,NORMAL,NONE
+2023-01-09,Synthetic Dengue,Florida,35.0,500000,synthetic,False,NORMAL,NONE
+2023-01-16,Synthetic Dengue,Florida,37.0,500000,synthetic,False,NORMAL,NONE
+2023-01-23,Synthetic Dengue,Florida,38.0,500000,synthetic,False,NORMAL,NONE
+2023-01-30,Synthetic Dengue,Florida,34.0,500000,synthetic,False,NORMAL,NONE
+2023-02-06,Synthetic Dengue,Florida,36.0,500000,synthetic,False,NORMAL,NONE
+2023-02-13,Synthetic Dengue,Florida,39.0,500000,synthetic,False,NORMAL,NONE
+2023-02-20,Synthetic Dengue,Florida,42.0,500000,synthetic,False,NORMAL,NONE
+2023-02-27,Synthetic Dengue,Florida,39.0,500000,synthetic,False,NORMAL,NONE
+2023-03-06,Synthetic Dengue,Florida,40.0,500000,synthetic,False,NORMAL,NONE
+2023-03-13,Synthetic Dengue,Florida,38.0,500000,synthetic,False,NORMAL,NONE
+2023-03-20,Synthetic Dengue,Florida,38.0,500000,synthetic,False,NORMAL,NONE
+2023-03-27,Synthetic Dengue,Florida,44.0,500000,synthetic,False,NORMAL,NONE
+2023-04-03,Synthetic Dengue,Florida,46.0,500000,synthetic,False,NORMAL,NONE
+2023-04-10,Synthetic Dengue,Florida,42.0,500000,synthetic,False,NORMAL,NONE
+2023-04-17,Synthetic Dengue,Florida,45.0,500000,synthetic,False,NORMAL,NONE
+2023-04-24,Synthetic Dengue,Florida,42.0,500000,synthetic,False,NORMAL,NONE
+2023-05-01,Synthetic Dengue,Florida,39.0,500000,synthetic,False,NORMAL,NONE
+2023-05-08,Synthetic Dengue,Florida,41.0,500000,synthetic,False,NORMAL,NONE
+2023-05-15,Synthetic Dengue,Florida,44.0,500000,synthetic,False,NORMAL,NONE
+2023-05-22,Synthetic Dengue,Florida,39.0,500000,synthetic,False,NORMAL,NONE
+2023-05-29,Synthetic Dengue,Florida,43.0,500000,synthetic,False,NORMAL,NONE
+2023-06-05,Synthetic Dengue,Florida,29.0,500000,synthetic,False,NORMAL,NONE
+2023-06-12,Synthetic Dengue,Florida,38.0,500000,synthetic,False,NORMAL,NONE
+2023-06-19,Synthetic Dengue,Florida,35.0,500000,synthetic,False,NORMAL,NONE
+2023-06-26,Synthetic Dengue,Florida,33.0,500000,synthetic,False,NORMAL,NONE
+2023-07-03,Synthetic Dengue,Florida,33.0,500000,synthetic,False,NORMAL,NONE
+2023-07-10,Synthetic Dengue,Florida,25.0,500000,synthetic,False,NORMAL,NONE
+2023-07-17,Synthetic Dengue,Florida,29.0,500000,synthetic,False,NORMAL,NONE
+2023-07-24,Synthetic Dengue,Florida,30.0,500000,synthetic,False,NORMAL,NONE
+2023-07-31,Synthetic Dengue,Florida,32.0,500000,synthetic,False,NORMAL,NONE
+2023-08-07,Synthetic Dengue,Florida,25.0,500000,synthetic,False,NORMAL,NONE
+2023-08-14,Synthetic Dengue,Florida,23.0,500000,synthetic,False,NORMAL,NONE
+2023-08-21,Synthetic Dengue,Florida,24.0,500000,synthetic,False,NORMAL,NONE
+2023-08-28,Synthetic Dengue,Florida,27.0,500000,synthetic,False,NORMAL,NONE
+2023-09-04,Synthetic Dengue,Florida,25.0,500000,synthetic,False,NORMAL,NONE
+2023-09-11,Synthetic Dengue,Florida,22.0,500000,synthetic,False,NORMAL,NONE
+2023-09-18,Synthetic Dengue,Florida,25.0,500000,synthetic,False,NORMAL,NONE
+2023-09-25,Synthetic Dengue,Florida,23.0,500000,synthetic,False,NORMAL,NONE
+2023-10-02,Synthetic Dengue,Florida,26.0,500000,synthetic,False,NORMAL,NONE
+2023-10-09,Synthetic Dengue,Florida,21.0,500000,synthetic,False,NORMAL,NONE
+2023-10-16,Synthetic Dengue,Florida,22.0,500000,synthetic,False,NORMAL,NONE
+2023-10-23,Synthetic Dengue,Florida,22.0,500000,synthetic,False,NORMAL,NONE
+2023-10-30,Synthetic Dengue,Florida,20.0,500000,synthetic,False,NORMAL,NONE
+2023-11-06,Synthetic Dengue,Florida,26.0,500000,synthetic,False,NORMAL,NONE
+2023-11-13,Synthetic Dengue,Florida,26.0,500000,synthetic,False,NORMAL,NONE
+2023-11-20,Synthetic Dengue,Florida,26.0,500000,synthetic,False,NORMAL,NONE
+2023-11-27,Synthetic Dengue,Florida,27.0,500000,synthetic,False,NORMAL,NONE
+2023-12-04,Synthetic Dengue,Florida,24.0,500000,synthetic,False,NORMAL,NONE
+2023-12-11,Synthetic Dengue,Florida,28.0,500000,synthetic,False,NORMAL,NONE
+2023-12-18,Synthetic Dengue,Florida,30.0,500000,synthetic,False,NORMAL,NONE
+2023-12-25,Synthetic Dengue,Florida,29.0,500000,synthetic,False,NORMAL,NONE
+2024-01-01,Synthetic Dengue,Florida,33.0,500000,synthetic,False,NORMAL,NONE
+2024-01-08,Synthetic Dengue,Florida,36.0,500000,synthetic,False,NORMAL,NONE
+2024-01-15,Synthetic Dengue,Florida,41.0,500000,synthetic,False,NORMAL,NONE
+2024-01-22,Synthetic Dengue,Florida,37.0,500000,synthetic,False,NORMAL,NONE
+2024-01-29,Synthetic Dengue,Florida,39.0,500000,synthetic,False,NORMAL,NONE
+2024-02-05,Synthetic Dengue,Florida,39.0,500000,synthetic,False,NORMAL,NONE
+2024-02-12,Synthetic Dengue,Florida,34.0,500000,synthetic,False,NORMAL,NONE
+2024-02-19,Synthetic Dengue,Florida,41.0,500000,synthetic,False,NORMAL,NONE
+2024-02-26,Synthetic Dengue,Florida,42.0,500000,synthetic,False,NORMAL,NONE
+2024-03-04,Synthetic Dengue,Florida,50.0,500000,synthetic,False,NORMAL,NONE
+2024-03-11,Synthetic Dengue,Florida,42.0,500000,synthetic,False,NORMAL,NONE
+2024-03-18,Synthetic Dengue,Florida,44.0,500000,synthetic,False,NORMAL,NONE
+2024-03-25,Synthetic Dengue,Florida,43.0,500000,synthetic,False,NORMAL,NONE
+2024-04-01,Synthetic Dengue,Florida,40.0,500000,synthetic,False,NORMAL,NONE
+2024-04-08,Synthetic Dengue,Florida,47.0,500000,synthetic,False,NORMAL,NONE
+2024-04-15,Synthetic Dengue,Florida,46.0,500000,synthetic,False,NORMAL,NONE
+2024-04-22,Synthetic Dengue,Florida,45.0,500000,synthetic,False,NORMAL,NONE
+2024-04-29,Synthetic Dengue,Florida,40.0,500000,synthetic,False,NORMAL,NONE
+2024-05-06,Synthetic Dengue,Florida,46.0,500000,synthetic,False,NORMAL,NONE
+2024-05-13,Synthetic Dengue,Florida,37.0,500000,synthetic,False,NORMAL,NONE
+2024-05-20,Synthetic Dengue,Florida,42.0,500000,synthetic,False,NORMAL,NONE
+2024-05-27,Synthetic Dengue,Florida,46.0,500000,synthetic,False,NORMAL,NONE
+2024-06-03,Synthetic Dengue,Florida,35.0,500000,synthetic,False,NORMAL,NONE
+2024-06-10,Synthetic Dengue,Florida,36.0,500000,synthetic,False,NORMAL,NONE
+2024-06-17,Synthetic Dengue,Florida,37.0,500000,synthetic,False,NORMAL,NONE
+2024-06-24,Synthetic Dengue,Florida,34.0,500000,synthetic,False,NORMAL,NONE
+2024-07-01,Synthetic Dengue,Florida,29.0,500000,synthetic,False,NORMAL,NONE
+2024-07-08,Synthetic Dengue,Florida,33.0,500000,synthetic,False,NORMAL,NONE
+2024-07-15,Synthetic Dengue,Florida,28.0,500000,synthetic,False,NORMAL,NONE
+2024-07-22,Synthetic Dengue,Florida,32.0,500000,synthetic,False,NORMAL,NONE
+2024-07-29,Synthetic Dengue,Florida,27.0,500000,synthetic,False,NORMAL,NONE
+2024-08-05,Synthetic Dengue,Florida,33.0,500000,synthetic,False,NORMAL,NONE
+2024-08-12,Synthetic Dengue,Florida,25.0,500000,synthetic,False,NORMAL,NONE
+2024-08-19,Synthetic Dengue,Florida,26.0,500000,synthetic,False,NORMAL,NONE
+2024-08-26,Synthetic Dengue,Florida,28.0,500000,synthetic,False,NORMAL,NONE
+2024-09-02,Synthetic Dengue,Florida,22.0,500000,synthetic,False,NORMAL,NONE
+2024-09-09,Synthetic Dengue,Florida,26.0,500000,synthetic,False,NORMAL,NONE
+2024-09-16,Synthetic Dengue,Florida,28.0,500000,synthetic,False,NORMAL,NONE
+2024-09-23,Synthetic Dengue,Florida,20.0,500000,synthetic,False,NORMAL,NONE
+2024-09-30,Synthetic Dengue,Florida,25.0,500000,synthetic,False,NORMAL,NONE
+2024-10-07,Synthetic Dengue,Florida,25.0,500000,synthetic,False,NORMAL,NONE
+2024-10-14,Synthetic Dengue,Florida,27.0,500000,synthetic,False,NORMAL,NONE
+2024-10-21,Synthetic Dengue,Florida,21.0,500000,synthetic,False,NORMAL,NONE
+2024-10-28,Synthetic Dengue,Florida,22.0,500000,synthetic,False,NORMAL,NONE
+2024-11-04,Synthetic Dengue,Florida,28.0,500000,synthetic,False,NORMAL,NONE
+2024-11-11,Synthetic Dengue,Florida,28.0,500000,synthetic,False,NORMAL,NONE
+2024-11-18,Synthetic Dengue,Florida,29.0,500000,synthetic,False,NORMAL,NONE
+2024-11-25,Synthetic Dengue,Florida,30.0,500000,synthetic,False,NORMAL,NONE
+2024-12-02,Synthetic Dengue,Florida,28.0,500000,synthetic,False,NORMAL,NONE
+2024-12-09,Synthetic Dengue,Florida,32.0,500000,synthetic,False,NORMAL,NONE
+2024-12-16,Synthetic Dengue,Florida,33.0,500000,synthetic,False,NORMAL,NONE
+2024-12-23,Synthetic Dengue,Florida,31.0,500000,synthetic,False,NORMAL,NONE
+2024-12-30,Synthetic Dengue,Florida,40.0,500000,synthetic,False,NORMAL,NONE
+2025-01-06,Synthetic Dengue,Florida,37.0,500000,synthetic,False,NORMAL,NONE
+2025-01-13,Synthetic Dengue,Florida,34.0,500000,synthetic,False,NORMAL,NONE
+2025-01-20,Synthetic Dengue,Florida,40.0,500000,synthetic,False,NORMAL,NONE
+2025-01-27,Synthetic Dengue,Florida,37.0,500000,synthetic,False,NORMAL,NONE
+2025-02-03,Synthetic Dengue,Florida,43.0,500000,synthetic,False,NORMAL,NONE
+2025-02-10,Synthetic Dengue,Florida,45.0,500000,synthetic,False,NORMAL,NONE
+2025-02-17,Synthetic Dengue,Florida,40.0,500000,synthetic,False,NORMAL,NONE
+2025-02-24,Synthetic Dengue,Florida,46.0,500000,synthetic,False,NORMAL,NONE
+2025-03-03,Synthetic Dengue,Florida,45.0,500000,synthetic,False,NORMAL,NONE
+2025-03-10,Synthetic Dengue,Florida,47.0,500000,synthetic,False,NORMAL,NONE
+2025-03-17,Synthetic Dengue,Florida,50.0,500000,synthetic,False,NORMAL,NONE
+2025-03-24,Synthetic Dengue,Florida,44.0,500000,synthetic,False,NORMAL,NONE
+2025-03-31,Synthetic Dengue,Florida,43.0,500000,synthetic,False,NORMAL,NONE
+2025-04-07,Synthetic Dengue,Florida,42.0,500000,synthetic,False,NORMAL,NONE
+2025-04-14,Synthetic Dengue,Florida,42.0,500000,synthetic,False,NORMAL,NONE
+2025-04-21,Synthetic Dengue,Florida,44.0,500000,synthetic,False,NORMAL,NONE
+2025-04-28,Synthetic Dengue,Florida,45.0,500000,synthetic,False,NORMAL,NONE
+2025-05-05,Synthetic Dengue,Florida,44.0,500000,synthetic,False,NORMAL,NONE
+2025-05-12,Synthetic Dengue,Florida,45.0,500000,synthetic,False,NORMAL,NONE
+2025-05-19,Synthetic Dengue,Florida,42.0,500000,synthetic,False,NORMAL,NONE
+2025-05-26,Synthetic Dengue,Florida,45.0,500000,synthetic,False,NORMAL,NONE
+2025-06-02,Synthetic Dengue,Florida,117.0,500000,synthetic,True,PERSISTENT_OUTBREAK,NONE
+2025-06-09,Synthetic Dengue,Florida,141.0,500000,synthetic,True,PERSISTENT_OUTBREAK,NONE
+2025-06-16,Synthetic Dengue,Florida,120.0,500000,synthetic,True,PERSISTENT_OUTBREAK,NONE
+2025-06-23,Synthetic Dengue,Florida,102.0,500000,synthetic,True,PERSISTENT_OUTBREAK,NONE
+2025-06-30,Synthetic Dengue,Florida,96.0,500000,synthetic,True,PERSISTENT_OUTBREAK,NONE
+2025-07-07,Synthetic Dengue,Florida,108.0,500000,synthetic,True,PERSISTENT_OUTBREAK,NONE
+2025-07-14,Synthetic Dengue,Florida,32.0,500000,synthetic,False,NORMAL,NONE
+2025-07-21,Synthetic Dengue,Florida,34.0,500000,synthetic,False,NORMAL,NONE
+2025-07-28,Synthetic Dengue,Florida,32.0,500000,synthetic,False,NORMAL,NONE
+2025-08-04,Synthetic Dengue,Florida,30.0,500000,synthetic,False,NORMAL,NONE
+2025-08-11,Synthetic Dengue,Florida,26.0,500000,synthetic,False,NORMAL,NONE
+2025-08-18,Synthetic Dengue,Florida,24.0,500000,synthetic,False,NORMAL,NONE
+2025-08-25,Synthetic Dengue,Florida,26.0,500000,synthetic,False,NORMAL,NONE
+2025-09-01,Synthetic Dengue,Florida,29.0,500000,synthetic,False,NORMAL,NONE
+2025-09-08,Synthetic Dengue,Florida,27.0,500000,synthetic,False,NORMAL,NONE
+2025-09-15,Synthetic Dengue,Florida,22.0,500000,synthetic,False,NORMAL,NONE
+2025-09-22,Synthetic Dengue,Florida,26.0,500000,synthetic,False,NORMAL,NONE
+2025-09-29,Synthetic Dengue,Florida,27.0,500000,synthetic,False,NORMAL,NONE
+2025-10-06,Synthetic Dengue,Florida,23.0,500000,synthetic,False,NORMAL,NONE
+2025-10-13,Synthetic Dengue,Florida,27.0,500000,synthetic,False,NORMAL,NONE
+2025-10-20,Synthetic Dengue,Florida,27.0,500000,synthetic,False,NORMAL,NONE
+2025-10-27,Synthetic Dengue,Florida,24.0,500000,synthetic,False,NORMAL,NONE
+2025-11-03,Synthetic Dengue,Florida,29.0,500000,synthetic,False,NORMAL,NONE
+2025-11-10,Synthetic Dengue,Florida,30.0,500000,synthetic,False,NORMAL,NONE
+2025-11-17,Synthetic Dengue,Florida,33.0,500000,synthetic,False,NORMAL,NONE
+2025-11-24,Synthetic Dengue,Florida,34.0,500000,synthetic,False,NORMAL,NONE
+2025-12-01,Synthetic Dengue,Florida,27.0,500000,synthetic,False,NORMAL,NONE
+2025-12-08,Synthetic Dengue,Florida,30.0,500000,synthetic,False,NORMAL,NONE
+2025-12-15,Synthetic Dengue,Florida,35.0,500000,synthetic,False,NORMAL,NONE
+2025-12-22,Synthetic Dengue,Florida,37.0,500000,synthetic,False,NORMAL,NONE
+2022-01-03,Synthetic Dengue,Maryland,65.0,800000,synthetic,False,NORMAL,NONE
+2022-01-10,Synthetic Dengue,Maryland,60.0,800000,synthetic,False,NORMAL,NONE
+2022-01-17,Synthetic Dengue,Maryland,61.0,800000,synthetic,False,NORMAL,NONE
+2022-01-24,Synthetic Dengue,Maryland,65.0,800000,synthetic,False,NORMAL,NONE
+2022-01-31,Synthetic Dengue,Maryland,68.0,800000,synthetic,False,NORMAL,NONE
+2022-02-07,Synthetic Dengue,Maryland,73.0,800000,synthetic,False,NORMAL,NONE
+2022-02-14,Synthetic Dengue,Maryland,66.0,800000,synthetic,False,NORMAL,NONE
+2022-02-21,Synthetic Dengue,Maryland,77.0,800000,synthetic,False,NORMAL,NONE
+2022-02-28,Synthetic Dengue,Maryland,73.0,800000,synthetic,False,NORMAL,NONE
+2022-03-07,Synthetic Dengue,Maryland,73.0,800000,synthetic,False,NORMAL,NONE
+2022-03-14,Synthetic Dengue,Maryland,72.0,800000,synthetic,False,NORMAL,NONE
+2022-03-21,Synthetic Dengue,Maryland,71.0,800000,synthetic,False,NORMAL,NONE
+2022-03-28,Synthetic Dengue,Maryland,79.0,800000,synthetic,False,NORMAL,NONE
+2022-04-04,Synthetic Dengue,Maryland,77.0,800000,synthetic,False,NORMAL,NONE
+2022-04-11,Synthetic Dengue,Maryland,72.0,800000,synthetic,False,NORMAL,NONE
+2022-04-18,Synthetic Dengue,Maryland,72.0,800000,synthetic,False,NORMAL,NONE
+2022-04-25,Synthetic Dengue,Maryland,74.0,800000,synthetic,False,NORMAL,NONE
+2022-05-02,Synthetic Dengue,Maryland,80.0,800000,synthetic,False,NORMAL,NONE
+2022-05-09,Synthetic Dengue,Maryland,73.0,800000,synthetic,False,NORMAL,NONE
+2022-05-16,Synthetic Dengue,Maryland,68.0,800000,synthetic,False,NORMAL,NONE
+2022-05-23,Synthetic Dengue,Maryland,70.0,800000,synthetic,False,NORMAL,NONE
+2022-05-30,Synthetic Dengue,Maryland,69.0,800000,synthetic,False,NORMAL,NONE
+2022-06-06,Synthetic Dengue,Maryland,60.0,800000,synthetic,False,NORMAL,NONE
+2022-06-13,Synthetic Dengue,Maryland,66.0,800000,synthetic,False,NORMAL,NONE
+2022-06-20,Synthetic Dengue,Maryland,64.0,800000,synthetic,False,NORMAL,NONE
+2022-06-27,Synthetic Dengue,Maryland,65.0,800000,synthetic,False,NORMAL,NONE
+2022-07-04,Synthetic Dengue,Maryland,66.0,800000,synthetic,False,NORMAL,NONE
+2022-07-11,Synthetic Dengue,Maryland,62.0,800000,synthetic,False,NORMAL,NONE
+2022-07-18,Synthetic Dengue,Maryland,56.0,800000,synthetic,False,NORMAL,NONE
+2022-07-25,Synthetic Dengue,Maryland,52.0,800000,synthetic,False,NORMAL,NONE
+2022-08-01,Synthetic Dengue,Maryland,61.0,800000,synthetic,False,NORMAL,NONE
+2022-08-08,Synthetic Dengue,Maryland,52.0,800000,synthetic,False,NORMAL,NONE
+2022-08-15,Synthetic Dengue,Maryland,50.0,800000,synthetic,False,NORMAL,NONE
+2022-08-22,Synthetic Dengue,Maryland,49.0,800000,synthetic,False,NORMAL,NONE
+2022-08-29,Synthetic Dengue,Maryland,48.0,800000,synthetic,False,NORMAL,NONE
+2022-09-05,Synthetic Dengue,Maryland,46.0,800000,synthetic,False,NORMAL,NONE
+2022-09-12,Synthetic Dengue,Maryland,44.0,800000,synthetic,False,NORMAL,NONE
+2022-09-19,Synthetic Dengue,Maryland,44.0,800000,synthetic,False,NORMAL,NONE
+2022-09-26,Synthetic Dengue,Maryland,45.0,800000,synthetic,False,NORMAL,NONE
+2022-10-03,Synthetic Dengue,Maryland,44.0,800000,synthetic,False,NORMAL,NONE
+2022-10-10,Synthetic Dengue,Maryland,43.0,800000,synthetic,False,NORMAL,NONE
+2022-10-17,Synthetic Dengue,Maryland,46.0,800000,synthetic,False,NORMAL,NONE
+2022-10-24,Synthetic Dengue,Maryland,46.0,800000,synthetic,False,NORMAL,NONE
+2022-10-31,Synthetic Dengue,Maryland,52.0,800000,synthetic,False,NORMAL,NONE
+2022-11-07,Synthetic Dengue,Maryland,40.0,800000,synthetic,False,NORMAL,NONE
+2022-11-14,Synthetic Dengue,Maryland,53.0,800000,synthetic,False,NORMAL,NONE
+2022-11-21,Synthetic Dengue,Maryland,55.0,800000,synthetic,False,NORMAL,NONE
+2022-11-28,Synthetic Dengue,Maryland,46.0,800000,synthetic,False,NORMAL,NONE
+2022-12-05,Synthetic Dengue,Maryland,53.0,800000,synthetic,False,NORMAL,NONE
+2022-12-12,Synthetic Dengue,Maryland,55.0,800000,synthetic,False,NORMAL,NONE
+2022-12-19,Synthetic Dengue,Maryland,53.0,800000,synthetic,False,NORMAL,NONE
+2022-12-26,Synthetic Dengue,Maryland,57.0,800000,synthetic,False,NORMAL,NONE
+2023-01-02,Synthetic Dengue,Maryland,58.0,800000,synthetic,False,NORMAL,NONE
+2023-01-09,Synthetic Dengue,Maryland,69.0,800000,synthetic,False,NORMAL,NONE
+2023-01-16,Synthetic Dengue,Maryland,68.0,800000,synthetic,False,NORMAL,NONE
+2023-01-23,Synthetic Dengue,Maryland,71.0,800000,synthetic,False,NORMAL,NONE
+2023-01-30,Synthetic Dengue,Maryland,71.0,800000,synthetic,False,NORMAL,NONE
+2023-02-06,Synthetic Dengue,Maryland,67.0,800000,synthetic,False,NORMAL,NONE
+2023-02-13,Synthetic Dengue,Maryland,71.0,800000,synthetic,False,NORMAL,NONE
+2023-02-20,Synthetic Dengue,Maryland,75.0,800000,synthetic,False,NORMAL,NONE
+2023-02-27,Synthetic Dengue,Maryland,71.0,800000,synthetic,False,NORMAL,NONE
+2023-03-06,Synthetic Dengue,Maryland,78.0,800000,synthetic,False,NORMAL,NONE
+2023-03-13,Synthetic Dengue,Maryland,76.0,800000,synthetic,False,NORMAL,NONE
+2023-03-20,Synthetic Dengue,Maryland,76.0,800000,synthetic,False,NORMAL,NONE
+2023-03-27,Synthetic Dengue,Maryland,80.0,800000,synthetic,False,NORMAL,NONE
+2023-04-03,Synthetic Dengue,Maryland,79.0,800000,synthetic,False,NORMAL,NONE
+2023-04-10,Synthetic Dengue,Maryland,77.0,800000,synthetic,False,NORMAL,NONE
+2023-04-17,Synthetic Dengue,Maryland,81.0,800000,synthetic,False,NORMAL,NONE
+2023-04-24,Synthetic Dengue,Maryland,74.0,800000,synthetic,False,NORMAL,NONE
+2023-05-01,Synthetic Dengue,Maryland,78.0,800000,synthetic,False,NORMAL,NONE
+2023-05-08,Synthetic Dengue,Maryland,77.0,800000,synthetic,False,NORMAL,NONE
+2023-05-15,Synthetic Dengue,Maryland,73.0,800000,synthetic,False,NORMAL,NONE
+2023-05-22,Synthetic Dengue,Maryland,74.0,800000,synthetic,False,NORMAL,NONE
+2023-05-29,Synthetic Dengue,Maryland,68.0,800000,synthetic,False,NORMAL,NONE
+2023-06-05,Synthetic Dengue,Maryland,72.0,800000,synthetic,False,NORMAL,NONE
+2023-06-12,Synthetic Dengue,Maryland,67.0,800000,synthetic,False,NORMAL,NONE
+2023-06-19,Synthetic Dengue,Maryland,65.0,800000,synthetic,False,NORMAL,NONE
+2023-06-26,Synthetic Dengue,Maryland,67.0,800000,synthetic,False,NORMAL,NONE
+2023-07-03,Synthetic Dengue,Maryland,60.0,800000,synthetic,False,NORMAL,NONE
+2023-07-10,Synthetic Dengue,Maryland,56.0,800000,synthetic,False,NORMAL,NONE
+2023-07-17,Synthetic Dengue,Maryland,54.0,800000,synthetic,False,NORMAL,NONE
+2023-07-24,Synthetic Dengue,Maryland,59.0,800000,synthetic,False,NORMAL,NONE
+2023-07-31,Synthetic Dengue,Maryland,51.0,800000,synthetic,False,NORMAL,NONE
+2023-08-07,Synthetic Dengue,Maryland,59.0,800000,synthetic,False,NORMAL,NONE
+2023-08-14,Synthetic Dengue,Maryland,46.0,800000,synthetic,False,NORMAL,NONE
+2023-08-21,Synthetic Dengue,Maryland,56.0,800000,synthetic,False,NORMAL,NONE
+2023-08-28,Synthetic Dengue,Maryland,50.0,800000,synthetic,False,NORMAL,NONE
+2023-09-04,Synthetic Dengue,Maryland,48.0,800000,synthetic,False,NORMAL,NONE
+2023-09-11,Synthetic Dengue,Maryland,46.0,800000,synthetic,False,NORMAL,NONE
+2023-09-18,Synthetic Dengue,Maryland,48.0,800000,synthetic,False,NORMAL,NONE
+2023-09-25,Synthetic Dengue,Maryland,47.0,800000,synthetic,False,NORMAL,NONE
+2023-10-02,Synthetic Dengue,Maryland,50.0,800000,synthetic,False,NORMAL,NONE
+2023-10-09,Synthetic Dengue,Maryland,47.0,800000,synthetic,False,NORMAL,NONE
+2023-10-16,Synthetic Dengue,Maryland,48.0,800000,synthetic,False,NORMAL,NONE
+2023-10-23,Synthetic Dengue,Maryland,47.0,800000,synthetic,False,NORMAL,NONE
+2023-10-30,Synthetic Dengue,Maryland,49.0,800000,synthetic,False,NORMAL,NONE
+2023-11-06,Synthetic Dengue,Maryland,51.0,800000,synthetic,False,NORMAL,NONE
+2023-11-13,Synthetic Dengue,Maryland,46.0,800000,synthetic,False,NORMAL,NONE
+2023-11-20,Synthetic Dengue,Maryland,48.0,800000,synthetic,False,NORMAL,NONE
+2023-11-27,Synthetic Dengue,Maryland,56.0,800000,synthetic,False,NORMAL,NONE
+2023-12-04,Synthetic Dengue,Maryland,56.0,800000,synthetic,False,NORMAL,NONE
+2023-12-11,Synthetic Dengue,Maryland,57.0,800000,synthetic,False,NORMAL,NONE
+2023-12-18,Synthetic Dengue,Maryland,59.0,800000,synthetic,False,NORMAL,NONE
+2023-12-25,Synthetic Dengue,Maryland,62.0,800000,synthetic,False,NORMAL,NONE
+2024-01-01,Synthetic Dengue,Maryland,62.0,800000,synthetic,False,NORMAL,NONE
+2024-01-08,Synthetic Dengue,Maryland,63.0,800000,synthetic,False,NORMAL,NONE
+2024-01-15,Synthetic Dengue,Maryland,68.0,800000,synthetic,False,NORMAL,NONE
+2024-01-22,Synthetic Dengue,Maryland,66.0,800000,synthetic,False,NORMAL,NONE
+2024-01-29,Synthetic Dengue,Maryland,72.0,800000,synthetic,False,NORMAL,NONE
+2024-02-05,Synthetic Dengue,Maryland,67.0,800000,synthetic,False,NORMAL,NONE
+2024-02-12,Synthetic Dengue,Maryland,77.0,800000,synthetic,False,NORMAL,NONE
+2024-02-19,Synthetic Dengue,Maryland,77.0,800000,synthetic,False,NORMAL,NONE
+2024-02-26,Synthetic Dengue,Maryland,77.0,800000,synthetic,False,NORMAL,NONE
+2024-03-04,Synthetic Dengue,Maryland,81.0,800000,synthetic,False,NORMAL,NONE
+2024-03-11,Synthetic Dengue,Maryland,83.0,800000,synthetic,False,NORMAL,NONE
+2024-03-18,Synthetic Dengue,Maryland,82.0,800000,synthetic,False,NORMAL,NONE
+2024-03-25,Synthetic Dengue,Maryland,74.0,800000,synthetic,False,NORMAL,NONE
+2024-04-01,Synthetic Dengue,Maryland,76.0,800000,synthetic,False,NORMAL,NONE
+2024-04-08,Synthetic Dengue,Maryland,78.0,800000,synthetic,False,NORMAL,NONE
+2024-04-15,Synthetic Dengue,Maryland,79.0,800000,synthetic,False,NORMAL,NONE
+2024-04-22,Synthetic Dengue,Maryland,80.0,800000,synthetic,False,NORMAL,NONE
+2024-04-29,Synthetic Dengue,Maryland,76.0,800000,synthetic,False,NORMAL,NONE
+2024-05-06,Synthetic Dengue,Maryland,77.0,800000,synthetic,False,NORMAL,NONE
+2024-05-13,Synthetic Dengue,Maryland,73.0,800000,synthetic,False,NORMAL,NONE
+2024-05-20,Synthetic Dengue,Maryland,72.0,800000,synthetic,False,NORMAL,NONE
+2024-05-27,Synthetic Dengue,Maryland,69.0,800000,synthetic,False,NORMAL,NONE
+2024-06-03,Synthetic Dengue,Maryland,68.0,800000,synthetic,False,NORMAL,NONE
+2024-06-10,Synthetic Dengue,Maryland,65.0,800000,synthetic,False,NORMAL,NONE
+2024-06-17,Synthetic Dengue,Maryland,65.0,800000,synthetic,False,NORMAL,NONE
+2024-06-24,Synthetic Dengue,Maryland,69.0,800000,synthetic,False,NORMAL,NONE
+2024-07-01,Synthetic Dengue,Maryland,61.0,800000,synthetic,False,NORMAL,NONE
+2024-07-08,Synthetic Dengue,Maryland,70.0,800000,synthetic,False,NORMAL,NONE
+2024-07-15,Synthetic Dengue,Maryland,62.0,800000,synthetic,False,NORMAL,NONE
+2024-07-22,Synthetic Dengue,Maryland,59.0,800000,synthetic,False,NORMAL,NONE
+2024-07-29,Synthetic Dengue,Maryland,54.0,800000,synthetic,False,NORMAL,NONE
+2024-08-05,Synthetic Dengue,Maryland,57.0,800000,synthetic,False,NORMAL,NONE
+2024-08-12,Synthetic Dengue,Maryland,52.0,800000,synthetic,False,NORMAL,NONE
+2024-08-19,Synthetic Dengue,Maryland,52.0,800000,synthetic,False,NORMAL,NONE
+2024-08-26,Synthetic Dengue,Maryland,59.0,800000,synthetic,False,NORMAL,NONE
+2024-09-02,Synthetic Dengue,Maryland,50.0,800000,synthetic,False,NORMAL,NONE
+2024-09-09,Synthetic Dengue,Maryland,53.0,800000,synthetic,False,NORMAL,NONE
+2024-09-16,Synthetic Dengue,Maryland,47.0,800000,synthetic,False,NORMAL,NONE
+2024-09-23,Synthetic Dengue,Maryland,48.0,800000,synthetic,False,NORMAL,NONE
+2024-09-30,Synthetic Dengue,Maryland,54.0,800000,synthetic,False,NORMAL,NONE
+2024-10-07,Synthetic Dengue,Maryland,47.0,800000,synthetic,False,NORMAL,NONE
+2024-10-14,Synthetic Dengue,Maryland,54.0,800000,synthetic,False,NORMAL,NONE
+2024-10-21,Synthetic Dengue,Maryland,52.0,800000,synthetic,False,NORMAL,NONE
+2024-10-28,Synthetic Dengue,Maryland,49.0,800000,synthetic,False,NORMAL,NONE
+2024-11-04,Synthetic Dengue,Maryland,212.0,800000,synthetic,True,REPORTING_SPIKE,NONE
+2024-11-11,Synthetic Dengue,Maryland,55.0,800000,synthetic,False,NORMAL,NONE
+2024-11-18,Synthetic Dengue,Maryland,56.0,800000,synthetic,False,NORMAL,NONE
+2024-11-25,Synthetic Dengue,Maryland,51.0,800000,synthetic,False,NORMAL,NONE
+2024-12-02,Synthetic Dengue,Maryland,55.0,800000,synthetic,False,NORMAL,NONE
+2024-12-09,Synthetic Dengue,Maryland,58.0,800000,synthetic,False,NORMAL,NONE
+2024-12-16,Synthetic Dengue,Maryland,61.0,800000,synthetic,False,NORMAL,NONE
+2024-12-23,Synthetic Dengue,Maryland,65.0,800000,synthetic,False,NORMAL,NONE
+2024-12-30,Synthetic Dengue,Maryland,65.0,800000,synthetic,False,NORMAL,NONE
+2025-01-06,Synthetic Dengue,Maryland,63.0,800000,synthetic,False,NORMAL,NONE
+2025-01-13,Synthetic Dengue,Maryland,70.0,800000,synthetic,False,NORMAL,NONE
+2025-01-20,Synthetic Dengue,Maryland,72.0,800000,synthetic,False,NORMAL,NONE
+2025-01-27,Synthetic Dengue,Maryland,74.0,800000,synthetic,False,NORMAL,NONE
+2025-02-03,Synthetic Dengue,Maryland,77.0,800000,synthetic,False,NORMAL,NONE
+2025-02-10,Synthetic Dengue,Maryland,78.0,800000,synthetic,False,NORMAL,NONE
+2025-02-17,Synthetic Dengue,Maryland,78.0,800000,synthetic,False,NORMAL,NONE
+2025-02-24,Synthetic Dengue,Maryland,78.0,800000,synthetic,False,NORMAL,NONE
+2025-03-03,Synthetic Dengue,Maryland,74.0,800000,synthetic,False,NORMAL,NONE
+2025-03-10,Synthetic Dengue,Maryland,81.0,800000,synthetic,False,NORMAL,NONE
+2025-03-17,Synthetic Dengue,Maryland,81.0,800000,synthetic,False,NORMAL,NONE
+2025-03-24,Synthetic Dengue,Maryland,82.0,800000,synthetic,False,NORMAL,NONE
+2025-03-31,Synthetic Dengue,Maryland,77.0,800000,synthetic,False,NORMAL,NONE
+2025-04-07,Synthetic Dengue,Maryland,78.0,800000,synthetic,False,NORMAL,NONE
+2025-04-14,Synthetic Dengue,Maryland,84.0,800000,synthetic,False,NORMAL,NONE
+2025-04-21,Synthetic Dengue,Maryland,80.0,800000,synthetic,False,NORMAL,NONE
+2025-04-28,Synthetic Dengue,Maryland,81.0,800000,synthetic,False,NORMAL,NONE
+2025-05-05,Synthetic Dengue,Maryland,78.0,800000,synthetic,False,NORMAL,NONE
+2025-05-12,Synthetic Dengue,Maryland,77.0,800000,synthetic,False,NORMAL,NONE
+2025-05-19,Synthetic Dengue,Maryland,79.0,800000,synthetic,False,NORMAL,NONE
+2025-05-26,Synthetic Dengue,Maryland,73.0,800000,synthetic,False,NORMAL,NONE
+2025-06-02,Synthetic Dengue,Maryland,73.0,800000,synthetic,False,NORMAL,NONE
+2025-06-09,Synthetic Dengue,Maryland,70.0,800000,synthetic,False,NORMAL,NONE
+2025-06-16,Synthetic Dengue,Maryland,68.0,800000,synthetic,False,NORMAL,NONE
+2025-06-23,Synthetic Dengue,Maryland,66.0,800000,synthetic,False,NORMAL,NONE
+2025-06-30,Synthetic Dengue,Maryland,66.0,800000,synthetic,False,NORMAL,NONE
+2025-07-07,Synthetic Dengue,Maryland,62.0,800000,synthetic,False,NORMAL,NONE
+2025-07-14,Synthetic Dengue,Maryland,65.0,800000,synthetic,False,NORMAL,NONE
+2025-07-21,Synthetic Dengue,Maryland,57.0,800000,synthetic,False,NORMAL,NONE
+2025-07-28,Synthetic Dengue,Maryland,58.0,800000,synthetic,False,NORMAL,NONE
+2025-08-04,Synthetic Dengue,Maryland,55.0,800000,synthetic,False,NORMAL,NONE
+2025-08-11,Synthetic Dengue,Maryland,59.0,800000,synthetic,False,NORMAL,NONE
+2025-08-18,Synthetic Dengue,Maryland,54.0,800000,synthetic,False,NORMAL,NONE
+2025-08-25,Synthetic Dengue,Maryland,56.0,800000,synthetic,False,NORMAL,NONE
+2025-09-01,Synthetic Dengue,Maryland,47.0,800000,synthetic,False,NORMAL,NONE
+2025-09-08,Synthetic Dengue,Maryland,52.0,800000,synthetic,False,NORMAL,NONE
+2025-09-15,Synthetic Dengue,Maryland,53.0,800000,synthetic,False,NORMAL,NONE
+2025-09-22,Synthetic Dengue,Maryland,50.0,800000,synthetic,False,NORMAL,NONE
+2025-09-29,Synthetic Dengue,Maryland,53.0,800000,synthetic,False,NORMAL,NONE
+2025-10-06,Synthetic Dengue,Maryland,48.0,800000,synthetic,False,NORMAL,NONE
+2025-10-13,Synthetic Dengue,Maryland,55.0,800000,synthetic,False,NORMAL,NONE
+2025-10-20,Synthetic Dengue,Maryland,58.0,800000,synthetic,False,NORMAL,NONE
+2025-10-27,Synthetic Dengue,Maryland,51.0,800000,synthetic,False,NORMAL,NONE
+2025-11-03,Synthetic Dengue,Maryland,51.0,800000,synthetic,False,NORMAL,NONE
+2025-11-10,Synthetic Dengue,Maryland,58.0,800000,synthetic,False,NORMAL,NONE
+2025-11-17,Synthetic Dengue,Maryland,60.0,800000,synthetic,False,NORMAL,NONE
+2025-11-24,Synthetic Dengue,Maryland,55.0,800000,synthetic,False,NORMAL,NONE
+2025-12-01,Synthetic Dengue,Maryland,57.0,800000,synthetic,False,NORMAL,NONE
+2025-12-08,Synthetic Dengue,Maryland,60.0,800000,synthetic,False,NORMAL,NONE
+2025-12-15,Synthetic Dengue,Maryland,58.0,800000,synthetic,False,NORMAL,NONE
+2025-12-22,Synthetic Dengue,Maryland,62.0,800000,synthetic,False,NORMAL,NONE
+2022-01-03,Synthetic Dengue,New York,55.0,700000,synthetic,False,NORMAL,NONE
+2022-01-10,Synthetic Dengue,New York,52.0,700000,synthetic,False,NORMAL,NONE
+2022-01-17,Synthetic Dengue,New York,57.0,700000,synthetic,False,NORMAL,NONE
+2022-01-24,Synthetic Dengue,New York,55.0,700000,synthetic,False,NORMAL,NONE
+2022-01-31,Synthetic Dengue,New York,63.0,700000,synthetic,False,NORMAL,NONE
+2022-02-07,Synthetic Dengue,New York,63.0,700000,synthetic,False,NORMAL,NONE
+2022-02-14,Synthetic Dengue,New York,59.0,700000,synthetic,False,NORMAL,NONE
+2022-02-21,Synthetic Dengue,New York,64.0,700000,synthetic,False,NORMAL,NONE
+2022-02-28,Synthetic Dengue,New York,64.0,700000,synthetic,False,NORMAL,NONE
+2022-03-07,Synthetic Dengue,New York,67.0,700000,synthetic,False,NORMAL,NONE
+2022-03-14,Synthetic Dengue,New York,60.0,700000,synthetic,False,NORMAL,NONE
+2022-03-21,Synthetic Dengue,New York,66.0,700000,synthetic,False,NORMAL,NONE
+2022-03-28,Synthetic Dengue,New York,67.0,700000,synthetic,False,NORMAL,NONE
+2022-04-04,Synthetic Dengue,New York,59.0,700000,synthetic,False,NORMAL,NONE
+2022-04-11,Synthetic Dengue,New York,61.0,700000,synthetic,False,NORMAL,NONE
+2022-04-18,Synthetic Dengue,New York,58.0,700000,synthetic,False,NORMAL,NONE
+2022-04-25,Synthetic Dengue,New York,63.0,700000,synthetic,False,NORMAL,NONE
+2022-05-02,Synthetic Dengue,New York,65.0,700000,synthetic,False,NORMAL,NONE
+2022-05-09,Synthetic Dengue,New York,67.0,700000,synthetic,False,NORMAL,NONE
+2022-05-16,Synthetic Dengue,New York,61.0,700000,synthetic,False,NORMAL,NONE
+2022-05-23,Synthetic Dengue,New York,65.0,700000,synthetic,False,NORMAL,NONE
+2022-05-30,Synthetic Dengue,New York,54.0,700000,synthetic,False,NORMAL,NONE
+2022-06-06,Synthetic Dengue,New York,52.0,700000,synthetic,False,NORMAL,NONE
+2022-06-13,Synthetic Dengue,New York,55.0,700000,synthetic,False,NORMAL,NONE
+2022-06-20,Synthetic Dengue,New York,55.0,700000,synthetic,False,NORMAL,NONE
+2022-06-27,Synthetic Dengue,New York,52.0,700000,synthetic,False,NORMAL,NONE
+2022-07-04,Synthetic Dengue,New York,45.0,700000,synthetic,False,NORMAL,NONE
+2022-07-11,Synthetic Dengue,New York,49.0,700000,synthetic,False,NORMAL,NONE
+2022-07-18,Synthetic Dengue,New York,44.0,700000,synthetic,False,NORMAL,NONE
+2022-07-25,Synthetic Dengue,New York,48.0,700000,synthetic,False,NORMAL,NONE
+2022-08-01,Synthetic Dengue,New York,45.0,700000,synthetic,False,NORMAL,NONE
+2022-08-08,Synthetic Dengue,New York,40.0,700000,synthetic,False,NORMAL,NONE
+2022-08-15,Synthetic Dengue,New York,40.0,700000,synthetic,False,NORMAL,NONE
+2022-08-22,Synthetic Dengue,New York,37.0,700000,synthetic,False,NORMAL,NONE
+2022-08-29,Synthetic Dengue,New York,39.0,700000,synthetic,False,NORMAL,NONE
+2022-09-05,Synthetic Dengue,New York,42.0,700000,synthetic,False,NORMAL,NONE
+2022-09-12,Synthetic Dengue,New York,35.0,700000,synthetic,False,NORMAL,NONE
+2022-09-19,Synthetic Dengue,New York,39.0,700000,synthetic,False,NORMAL,NONE
+2022-09-26,Synthetic Dengue,New York,36.0,700000,synthetic,False,NORMAL,NONE
+2022-10-03,Synthetic Dengue,New York,35.0,700000,synthetic,False,NORMAL,NONE
+2022-10-10,Synthetic Dengue,New York,37.0,700000,synthetic,False,NORMAL,NONE
+2022-10-17,Synthetic Dengue,New York,35.0,700000,synthetic,False,NORMAL,NONE
+2022-10-24,Synthetic Dengue,New York,37.0,700000,synthetic,False,NORMAL,NONE
+2022-10-31,Synthetic Dengue,New York,35.0,700000,synthetic,False,NORMAL,NONE
+2022-11-07,Synthetic Dengue,New York,46.0,700000,synthetic,False,NORMAL,NONE
+2022-11-14,Synthetic Dengue,New York,41.0,700000,synthetic,False,NORMAL,NONE
+2022-11-21,Synthetic Dengue,New York,40.0,700000,synthetic,False,NORMAL,NONE
+2022-11-28,Synthetic Dengue,New York,44.0,700000,synthetic,False,NORMAL,NONE
+2022-12-05,Synthetic Dengue,New York,45.0,700000,synthetic,False,NORMAL,NONE
+2022-12-12,Synthetic Dengue,New York,46.0,700000,synthetic,False,NORMAL,NONE
+2022-12-19,Synthetic Dengue,New York,50.0,700000,synthetic,False,NORMAL,NONE
+2022-12-26,Synthetic Dengue,New York,52.0,700000,synthetic,False,NORMAL,NONE
+2023-01-02,Synthetic Dengue,New York,50.0,700000,synthetic,False,NORMAL,NONE
+2023-01-09,Synthetic Dengue,New York,52.0,700000,synthetic,False,NORMAL,NONE
+2023-01-16,Synthetic Dengue,New York,54.0,700000,synthetic,False,NORMAL,NONE
+2023-01-23,Synthetic Dengue,New York,50.0,700000,synthetic,False,NORMAL,NONE
+2023-01-30,Synthetic Dengue,New York,54.0,700000,synthetic,False,NORMAL,NONE
+2023-02-06,Synthetic Dengue,New York,64.0,700000,synthetic,False,NORMAL,NONE
+2023-02-13,Synthetic Dengue,New York,66.0,700000,synthetic,False,NORMAL,NONE
+2023-02-20,Synthetic Dengue,New York,62.0,700000,synthetic,False,NORMAL,NONE
+2023-02-27,Synthetic Dengue,New York,65.0,700000,synthetic,False,NORMAL,NONE
+2023-03-06,Synthetic Dengue,New York,65.0,700000,synthetic,False,NORMAL,NONE
+2023-03-13,Synthetic Dengue,New York,74.0,700000,synthetic,False,NORMAL,NONE
+2023-03-20,Synthetic Dengue,New York,69.0,700000,synthetic,False,NORMAL,NONE
+2023-03-27,Synthetic Dengue,New York,65.0,700000,synthetic,False,NORMAL,NONE
+2023-04-03,Synthetic Dengue,New York,63.0,700000,synthetic,False,NORMAL,NONE
+2023-04-10,Synthetic Dengue,New York,61.0,700000,synthetic,False,NORMAL,NONE
+2023-04-17,Synthetic Dengue,New York,66.0,700000,synthetic,False,NORMAL,NONE
+2023-04-24,Synthetic Dengue,New York,63.0,700000,synthetic,False,NORMAL,NONE
+2023-05-01,Synthetic Dengue,New York,60.0,700000,synthetic,False,NORMAL,NONE
+2023-05-08,Synthetic Dengue,New York,62.0,700000,synthetic,False,NORMAL,NONE
+2023-05-15,Synthetic Dengue,New York,59.0,700000,synthetic,False,NORMAL,NONE
+2023-05-22,Synthetic Dengue,New York,67.0,700000,synthetic,False,NORMAL,NONE
+2023-05-29,Synthetic Dengue,New York,63.0,700000,synthetic,False,NORMAL,NONE
+2023-06-05,Synthetic Dengue,New York,59.0,700000,synthetic,False,NORMAL,NONE
+2023-06-12,Synthetic Dengue,New York,62.0,700000,synthetic,False,NORMAL,NONE
+2023-06-19,Synthetic Dengue,New York,56.0,700000,synthetic,False,NORMAL,NONE
+2023-06-26,Synthetic Dengue,New York,51.0,700000,synthetic,False,NORMAL,NONE
+2023-07-03,Synthetic Dengue,New York,57.0,700000,synthetic,False,NORMAL,NONE
+2023-07-10,Synthetic Dengue,New York,52.0,700000,synthetic,False,NORMAL,NONE
+2023-07-17,Synthetic Dengue,New York,46.0,700000,synthetic,False,NORMAL,NONE
+2023-07-24,Synthetic Dengue,New York,47.0,700000,synthetic,False,NORMAL,NONE
+2023-07-31,Synthetic Dengue,New York,43.0,700000,synthetic,False,NORMAL,NONE
+2023-08-07,Synthetic Dengue,New York,40.0,700000,synthetic,False,NORMAL,NONE
+2023-08-14,Synthetic Dengue,New York,46.0,700000,synthetic,False,NORMAL,NONE
+2023-08-21,Synthetic Dengue,New York,48.0,700000,synthetic,False,NORMAL,NONE
+2023-08-28,Synthetic Dengue,New York,37.0,700000,synthetic,False,NORMAL,NONE
+2023-09-04,Synthetic Dengue,New York,42.0,700000,synthetic,False,NORMAL,NONE
+2023-09-11,Synthetic Dengue,New York,38.0,700000,synthetic,False,NORMAL,NONE
+2023-09-18,Synthetic Dengue,New York,38.0,700000,synthetic,False,NORMAL,NONE
+2023-09-25,Synthetic Dengue,New York,37.0,700000,synthetic,False,NORMAL,NONE
+2023-10-02,Synthetic Dengue,New York,36.0,700000,synthetic,False,NORMAL,NONE
+2023-10-09,Synthetic Dengue,New York,39.0,700000,synthetic,False,NORMAL,NONE
+2023-10-16,Synthetic Dengue,New York,37.0,700000,synthetic,False,NORMAL,NONE
+2023-10-23,Synthetic Dengue,New York,41.0,700000,synthetic,False,NORMAL,NONE
+2023-10-30,Synthetic Dengue,New York,40.0,700000,synthetic,False,NORMAL,NONE
+2023-11-06,Synthetic Dengue,New York,41.0,700000,synthetic,False,NORMAL,NONE
+2023-11-13,Synthetic Dengue,New York,40.0,700000,synthetic,False,NORMAL,NONE
+2023-11-20,Synthetic Dengue,New York,42.0,700000,synthetic,False,NORMAL,NONE
+2023-11-27,Synthetic Dengue,New York,47.0,700000,synthetic,False,NORMAL,NONE
+2023-12-04,Synthetic Dengue,New York,48.0,700000,synthetic,False,NORMAL,NONE
+2023-12-11,Synthetic Dengue,New York,45.0,700000,synthetic,False,NORMAL,NONE
+2023-12-18,Synthetic Dengue,New York,50.0,700000,synthetic,False,NORMAL,NONE
+2023-12-25,Synthetic Dengue,New York,54.0,700000,synthetic,False,NORMAL,NONE
+2024-01-01,Synthetic Dengue,New York,48.0,700000,synthetic,False,NORMAL,NONE
+2024-01-08,Synthetic Dengue,New York,56.0,700000,synthetic,False,NORMAL,NONE
+2024-01-15,Synthetic Dengue,New York,55.0,700000,synthetic,False,NORMAL,NONE
+2024-01-22,Synthetic Dengue,New York,60.0,700000,synthetic,False,NORMAL,NONE
+2024-01-29,Synthetic Dengue,New York,57.0,700000,synthetic,False,NORMAL,NONE
+2024-02-05,Synthetic Dengue,New York,56.0,700000,synthetic,False,NORMAL,NONE
+2024-02-12,Synthetic Dengue,New York,58.0,700000,synthetic,False,NORMAL,NONE
+2024-02-19,Synthetic Dengue,New York,64.0,700000,synthetic,False,NORMAL,NONE
+2024-02-26,Synthetic Dengue,New York,66.0,700000,synthetic,False,NORMAL,NONE
+2024-03-04,Synthetic Dengue,New York,63.0,700000,synthetic,False,NORMAL,NONE
+2024-03-11,Synthetic Dengue,New York,68.0,700000,synthetic,False,NORMAL,NONE
+2024-03-18,Synthetic Dengue,New York,62.0,700000,synthetic,False,NORMAL,NONE
+2024-03-25,Synthetic Dengue,New York,67.0,700000,synthetic,False,NORMAL,NONE
+2024-04-01,Synthetic Dengue,New York,64.0,700000,synthetic,False,NORMAL,NONE
+2024-04-08,Synthetic Dengue,New York,65.0,700000,synthetic,False,NORMAL,NONE
+2024-04-15,Synthetic Dengue,New York,67.0,700000,synthetic,False,NORMAL,NONE
+2024-04-22,Synthetic Dengue,New York,64.0,700000,synthetic,False,NORMAL,NONE
+2024-04-29,Synthetic Dengue,New York,65.0,700000,synthetic,False,NORMAL,NONE
+2024-05-06,Synthetic Dengue,New York,68.0,700000,synthetic,False,NORMAL,NONE
+2024-05-13,Synthetic Dengue,New York,62.0,700000,synthetic,False,NORMAL,NONE
+2024-05-20,Synthetic Dengue,New York,66.0,700000,synthetic,False,NORMAL,NONE
+2024-05-27,Synthetic Dengue,New York,58.0,700000,synthetic,False,NORMAL,NONE
+2024-06-03,Synthetic Dengue,New York,62.0,700000,synthetic,False,NORMAL,NONE
+2024-06-10,Synthetic Dengue,New York,63.0,700000,synthetic,False,NORMAL,NONE
+2024-06-17,Synthetic Dengue,New York,50.0,700000,synthetic,False,NORMAL,NONE
+2024-06-24,Synthetic Dengue,New York,53.0,700000,synthetic,False,NORMAL,NONE
+2024-07-01,Synthetic Dengue,New York,56.0,700000,synthetic,False,NORMAL,NONE
+2024-07-08,Synthetic Dengue,New York,52.0,700000,synthetic,False,NORMAL,NONE
+2024-07-15,Synthetic Dengue,New York,52.0,700000,synthetic,False,NORMAL,NONE
+2024-07-22,Synthetic Dengue,New York,47.0,700000,synthetic,False,NORMAL,NONE
+2024-07-29,Synthetic Dengue,New York,48.0,700000,synthetic,False,NORMAL,NONE
+2024-08-05,Synthetic Dengue,New York,46.0,700000,synthetic,False,NORMAL,NONE
+2024-08-12,Synthetic Dengue,New York,48.0,700000,synthetic,False,NORMAL,NONE
+2024-08-19,Synthetic Dengue,New York,44.0,700000,synthetic,False,NORMAL,NONE
+2024-08-26,Synthetic Dengue,New York,44.0,700000,synthetic,False,NORMAL,NONE
+2024-09-02,Synthetic Dengue,New York,41.0,700000,synthetic,False,NORMAL,NONE
+2024-09-09,Synthetic Dengue,New York,40.0,700000,synthetic,False,NORMAL,NONE
+2024-09-16,Synthetic Dengue,New York,39.0,700000,synthetic,False,NORMAL,NONE
+2024-09-23,Synthetic Dengue,New York,42.0,700000,synthetic,False,NORMAL,NONE
+2024-09-30,Synthetic Dengue,New York,39.0,700000,synthetic,False,NORMAL,NONE
+2024-10-07,Synthetic Dengue,New York,41.0,700000,synthetic,False,NORMAL,NONE
+2024-10-14,Synthetic Dengue,New York,47.0,700000,synthetic,False,NORMAL,NONE
+2024-10-21,Synthetic Dengue,New York,44.0,700000,synthetic,False,NORMAL,NONE
+2024-10-28,Synthetic Dengue,New York,41.0,700000,synthetic,False,NORMAL,NONE
+2024-11-04,Synthetic Dengue,New York,47.0,700000,synthetic,False,NORMAL,NONE
+2024-11-11,Synthetic Dengue,New York,43.0,700000,synthetic,False,NORMAL,NONE
+2024-11-18,Synthetic Dengue,New York,39.0,700000,synthetic,False,NORMAL,NONE
+2024-11-25,Synthetic Dengue,New York,44.0,700000,synthetic,False,NORMAL,NONE
+2024-12-02,Synthetic Dengue,New York,42.0,700000,synthetic,False,NORMAL,NONE
+2024-12-09,Synthetic Dengue,New York,49.0,700000,synthetic,False,NORMAL,NONE
+2024-12-16,Synthetic Dengue,New York,51.0,700000,synthetic,False,NORMAL,NONE
+2024-12-23,Synthetic Dengue,New York,58.0,700000,synthetic,False,NORMAL,NONE
+2024-12-30,Synthetic Dengue,New York,56.0,700000,synthetic,False,NORMAL,NONE
+2025-01-06,Synthetic Dengue,New York,56.0,700000,synthetic,False,NORMAL,NONE
+2025-01-13,Synthetic Dengue,New York,61.0,700000,synthetic,False,NORMAL,NONE
+2025-01-20,Synthetic Dengue,New York,53.0,700000,synthetic,False,NORMAL,NONE
+2025-01-27,Synthetic Dengue,New York,62.0,700000,synthetic,False,NORMAL,NONE
+2025-02-03,Synthetic Dengue,New York,65.0,700000,synthetic,False,NORMAL,NONE
+2025-02-10,Synthetic Dengue,New York,60.0,700000,synthetic,False,NORMAL,NONE
+2025-02-17,Synthetic Dengue,New York,69.0,700000,synthetic,False,NORMAL,NONE
+2025-02-24,Synthetic Dengue,New York,67.0,700000,synthetic,False,NORMAL,NONE
+2025-03-03,Synthetic Dengue,New York,66.0,700000,synthetic,False,NORMAL,NONE
+2025-03-10,Synthetic Dengue,New York,70.0,700000,synthetic,False,NORMAL,NONE
+2025-03-17,Synthetic Dengue,New York,75.0,700000,synthetic,False,NORMAL,NONE
+2025-03-24,Synthetic Dengue,New York,69.0,700000,synthetic,False,NORMAL,NONE
+2025-03-31,Synthetic Dengue,New York,70.0,700000,synthetic,False,NORMAL,NONE
+2025-04-07,Synthetic Dengue,New York,68.0,700000,synthetic,False,NORMAL,NONE
+2025-04-14,Synthetic Dengue,New York,66.0,700000,synthetic,False,NORMAL,NONE
+2025-04-21,Synthetic Dengue,New York,71.0,700000,synthetic,False,NORMAL,NONE
+2025-04-28,Synthetic Dengue,New York,65.0,700000,synthetic,False,NORMAL,NONE
+2025-05-05,Synthetic Dengue,New York,67.0,700000,synthetic,False,NORMAL,NONE
+2025-05-12,Synthetic Dengue,New York,64.0,700000,synthetic,False,NORMAL,NONE
+2025-05-19,Synthetic Dengue,New York,66.0,700000,synthetic,False,NORMAL,NONE
+2025-05-26,Synthetic Dengue,New York,64.0,700000,synthetic,False,NORMAL,NONE
+2025-06-02,Synthetic Dengue,New York,65.0,700000,synthetic,False,NORMAL,NONE
+2025-06-09,Synthetic Dengue,New York,59.0,700000,synthetic,False,NORMAL,NONE
+2025-06-16,Synthetic Dengue,New York,58.0,700000,synthetic,False,NORMAL,NONE
+2025-06-23,Synthetic Dengue,New York,54.0,700000,synthetic,False,NORMAL,NONE
+2025-06-30,Synthetic Dengue,New York,54.0,700000,synthetic,False,NORMAL,NONE
+2025-07-07,Synthetic Dengue,New York,55.0,700000,synthetic,False,NORMAL,NONE
+2025-07-14,Synthetic Dengue,New York,54.0,700000,synthetic,False,NORMAL,NONE
+2025-07-21,Synthetic Dengue,New York,48.0,700000,synthetic,False,NORMAL,NONE
+2025-07-28,Synthetic Dengue,New York,52.0,700000,synthetic,False,NORMAL,NONE
+2025-08-04,Synthetic Dengue,New York,52.0,700000,synthetic,False,NORMAL,NONE
+2025-08-11,Synthetic Dengue,New York,48.0,700000,synthetic,False,NORMAL,NONE
+2025-08-18,Synthetic Dengue,New York,51.0,700000,synthetic,False,NORMAL,NONE
+2025-08-25,Synthetic Dengue,New York,42.0,700000,synthetic,False,NORMAL,NONE
+2025-09-01,Synthetic Dengue,New York,100.0,700000,synthetic,True,SHORT_PERSISTENCE,NONE
+2025-09-08,Synthetic Dengue,New York,92.0,700000,synthetic,True,SHORT_PERSISTENCE,NONE
+2025-09-15,Synthetic Dengue,New York,47.0,700000,synthetic,False,NORMAL,NONE
+2025-09-22,Synthetic Dengue,New York,44.0,700000,synthetic,False,NORMAL,NONE
+2025-09-29,Synthetic Dengue,New York,42.0,700000,synthetic,False,NORMAL,NONE
+2025-10-06,Synthetic Dengue,New York,43.0,700000,synthetic,False,NORMAL,NONE
+2025-10-13,Synthetic Dengue,New York,39.0,700000,synthetic,False,NORMAL,NONE
+2025-10-20,Synthetic Dengue,New York,50.0,700000,synthetic,False,NORMAL,NONE
+2025-10-27,Synthetic Dengue,New York,44.0,700000,synthetic,False,NORMAL,NONE
+2025-11-03,Synthetic Dengue,New York,45.0,700000,synthetic,False,NORMAL,NONE
+2025-11-10,Synthetic Dengue,New York,48.0,700000,synthetic,False,NORMAL,NONE
+2025-11-17,Synthetic Dengue,New York,48.0,700000,synthetic,False,NORMAL,NONE
+2025-11-24,Synthetic Dengue,New York,49.0,700000,synthetic,False,NORMAL,NONE
+2025-12-01,Synthetic Dengue,New York,47.0,700000,synthetic,False,NORMAL,NONE
+2025-12-08,Synthetic Dengue,New York,53.0,700000,synthetic,False,NORMAL,NONE
+2025-12-15,Synthetic Dengue,New York,58.0,700000,synthetic,False,NORMAL,NONE
+2025-12-22,Synthetic Dengue,New York,59.0,700000,synthetic,False,NORMAL,NONE
+2022-01-03,Synthetic Dengue,Texas,42.0,600000,synthetic,False,NORMAL,NONE
+2022-01-10,Synthetic Dengue,Texas,53.0,600000,synthetic,False,NORMAL,NONE
+2022-01-17,Synthetic Dengue,Texas,45.0,600000,synthetic,False,NORMAL,NONE
+2022-01-24,Synthetic Dengue,Texas,48.0,600000,synthetic,False,NORMAL,NONE
+2022-01-31,Synthetic Dengue,Texas,49.0,600000,synthetic,False,NORMAL,NONE
+2022-02-07,Synthetic Dengue,Texas,49.0,600000,synthetic,False,NORMAL,NONE
+2022-02-14,Synthetic Dengue,Texas,47.0,600000,synthetic,False,NORMAL,NONE
+2022-02-21,Synthetic Dengue,Texas,51.0,600000,synthetic,False,NORMAL,NONE
+2022-02-28,Synthetic Dengue,Texas,48.0,600000,synthetic,False,NORMAL,NONE
+2022-03-07,Synthetic Dengue,Texas,50.0,600000,synthetic,False,NORMAL,NONE
+2022-03-14,Synthetic Dengue,Texas,50.0,600000,synthetic,False,NORMAL,NONE
+2022-03-21,Synthetic Dengue,Texas,52.0,600000,synthetic,False,NORMAL,NONE
+2022-03-28,Synthetic Dengue,Texas,59.0,600000,synthetic,False,NORMAL,NONE
+2022-04-04,Synthetic Dengue,Texas,47.0,600000,synthetic,False,NORMAL,NONE
+2022-04-11,Synthetic Dengue,Texas,54.0,600000,synthetic,False,NORMAL,NONE
+2022-04-18,Synthetic Dengue,Texas,47.0,600000,synthetic,False,NORMAL,NONE
+2022-04-25,Synthetic Dengue,Texas,50.0,600000,synthetic,False,NORMAL,NONE
+2022-05-02,Synthetic Dengue,Texas,54.0,600000,synthetic,False,NORMAL,NONE
+2022-05-09,Synthetic Dengue,Texas,51.0,600000,synthetic,False,NORMAL,NONE
+2022-05-16,Synthetic Dengue,Texas,46.0,600000,synthetic,False,NORMAL,NONE
+2022-05-23,Synthetic Dengue,Texas,46.0,600000,synthetic,False,NORMAL,NONE
+2022-05-30,Synthetic Dengue,Texas,49.0,600000,synthetic,False,NORMAL,NONE
+2022-06-06,Synthetic Dengue,Texas,44.0,600000,synthetic,False,NORMAL,NONE
+2022-06-13,Synthetic Dengue,Texas,46.0,600000,synthetic,False,NORMAL,NONE
+2022-06-20,Synthetic Dengue,Texas,44.0,600000,synthetic,False,NORMAL,NONE
+2022-06-27,Synthetic Dengue,Texas,40.0,600000,synthetic,False,NORMAL,NONE
+2022-07-04,Synthetic Dengue,Texas,47.0,600000,synthetic,False,NORMAL,NONE
+2022-07-11,Synthetic Dengue,Texas,41.0,600000,synthetic,False,NORMAL,NONE
+2022-07-18,Synthetic Dengue,Texas,32.0,600000,synthetic,False,NORMAL,NONE
+2022-07-25,Synthetic Dengue,Texas,37.0,600000,synthetic,False,NORMAL,NONE
+2022-08-01,Synthetic Dengue,Texas,33.0,600000,synthetic,False,NORMAL,NONE
+2022-08-08,Synthetic Dengue,Texas,37.0,600000,synthetic,False,NORMAL,NONE
+2022-08-15,Synthetic Dengue,Texas,31.0,600000,synthetic,False,NORMAL,NONE
+2022-08-22,Synthetic Dengue,Texas,32.0,600000,synthetic,False,NORMAL,NONE
+2022-08-29,Synthetic Dengue,Texas,33.0,600000,synthetic,False,NORMAL,NONE
+2022-09-05,Synthetic Dengue,Texas,33.0,600000,synthetic,False,NORMAL,NONE
+2022-09-12,Synthetic Dengue,Texas,26.0,600000,synthetic,False,NORMAL,NONE
+2022-09-19,Synthetic Dengue,Texas,28.0,600000,synthetic,False,NORMAL,NONE
+2022-09-26,Synthetic Dengue,Texas,28.0,600000,synthetic,False,NORMAL,NONE
+2022-10-03,Synthetic Dengue,Texas,27.0,600000,synthetic,False,NORMAL,NONE
+2022-10-10,Synthetic Dengue,Texas,35.0,600000,synthetic,False,NORMAL,NONE
+2022-10-17,Synthetic Dengue,Texas,31.0,600000,synthetic,False,NORMAL,NONE
+2022-10-24,Synthetic Dengue,Texas,26.0,600000,synthetic,False,NORMAL,NONE
+2022-10-31,Synthetic Dengue,Texas,33.0,600000,synthetic,False,NORMAL,NONE
+2022-11-07,Synthetic Dengue,Texas,38.0,600000,synthetic,False,NORMAL,NONE
+2022-11-14,Synthetic Dengue,Texas,35.0,600000,synthetic,False,NORMAL,NONE
+2022-11-21,Synthetic Dengue,Texas,29.0,600000,synthetic,False,NORMAL,NONE
+2022-11-28,Synthetic Dengue,Texas,33.0,600000,synthetic,False,NORMAL,NONE
+2022-12-05,Synthetic Dengue,Texas,40.0,600000,synthetic,False,NORMAL,NONE
+2022-12-12,Synthetic Dengue,Texas,35.0,600000,synthetic,False,NORMAL,NONE
+2022-12-19,Synthetic Dengue,Texas,40.0,600000,synthetic,False,NORMAL,NONE
+2022-12-26,Synthetic Dengue,Texas,42.0,600000,synthetic,False,NORMAL,NONE
+2023-01-02,Synthetic Dengue,Texas,39.0,600000,synthetic,False,NORMAL,NONE
+2023-01-09,Synthetic Dengue,Texas,43.0,600000,synthetic,False,NORMAL,NONE
+2023-01-16,Synthetic Dengue,Texas,35.0,600000,synthetic,False,NORMAL,NONE
+2023-01-23,Synthetic Dengue,Texas,43.0,600000,synthetic,False,NORMAL,NONE
+2023-01-30,Synthetic Dengue,Texas,46.0,600000,synthetic,False,NORMAL,NONE
+2023-02-06,Synthetic Dengue,Texas,45.0,600000,synthetic,False,NORMAL,NONE
+2023-02-13,Synthetic Dengue,Texas,55.0,600000,synthetic,False,NORMAL,NONE
+2023-02-20,Synthetic Dengue,Texas,46.0,600000,synthetic,False,NORMAL,NONE
+2023-02-27,Synthetic Dengue,Texas,50.0,600000,synthetic,False,NORMAL,NONE
+2023-03-06,Synthetic Dengue,Texas,53.0,600000,synthetic,False,NORMAL,NONE
+2023-03-13,Synthetic Dengue,Texas,57.0,600000,synthetic,False,NORMAL,NONE
+2023-03-20,Synthetic Dengue,Texas,49.0,600000,synthetic,False,NORMAL,NONE
+2023-03-27,Synthetic Dengue,Texas,57.0,600000,synthetic,False,NORMAL,NONE
+2023-04-03,Synthetic Dengue,Texas,54.0,600000,synthetic,False,NORMAL,NONE
+2023-04-10,Synthetic Dengue,Texas,51.0,600000,synthetic,False,NORMAL,NONE
+2023-04-17,Synthetic Dengue,Texas,55.0,600000,synthetic,False,NORMAL,NONE
+2023-04-24,Synthetic Dengue,Texas,54.0,600000,synthetic,False,NORMAL,NONE
+2023-05-01,Synthetic Dengue,Texas,51.0,600000,synthetic,False,NORMAL,NONE
+2023-05-08,Synthetic Dengue,Texas,52.0,600000,synthetic,False,NORMAL,NONE
+2023-05-15,Synthetic Dengue,Texas,50.0,600000,synthetic,False,NORMAL,NONE
+2023-05-22,Synthetic Dengue,Texas,50.0,600000,synthetic,False,NORMAL,NONE
+2023-05-29,Synthetic Dengue,Texas,51.0,600000,synthetic,False,NORMAL,NONE
+2023-06-05,Synthetic Dengue,Texas,53.0,600000,synthetic,False,NORMAL,NONE
+2023-06-12,Synthetic Dengue,Texas,43.0,600000,synthetic,False,NORMAL,NONE
+2023-06-19,Synthetic Dengue,Texas,52.0,600000,synthetic,False,NORMAL,NONE
+2023-06-26,Synthetic Dengue,Texas,38.0,600000,synthetic,False,NORMAL,NONE
+2023-07-03,Synthetic Dengue,Texas,42.0,600000,synthetic,False,NORMAL,NONE
+2023-07-10,Synthetic Dengue,Texas,43.0,600000,synthetic,False,NORMAL,NONE
+2023-07-17,Synthetic Dengue,Texas,40.0,600000,synthetic,False,NORMAL,NONE
+2023-07-24,Synthetic Dengue,Texas,36.0,600000,synthetic,False,NORMAL,NONE
+2023-07-31,Synthetic Dengue,Texas,36.0,600000,synthetic,False,NORMAL,NONE
+2023-08-07,Synthetic Dengue,Texas,34.0,600000,synthetic,False,NORMAL,NONE
+2023-08-14,Synthetic Dengue,Texas,33.0,600000,synthetic,False,NORMAL,NONE
+2023-08-21,Synthetic Dengue,Texas,36.0,600000,synthetic,False,NORMAL,NONE
+2023-08-28,Synthetic Dengue,Texas,34.0,600000,synthetic,False,NORMAL,NONE
+2023-09-04,Synthetic Dengue,Texas,30.0,600000,synthetic,False,NORMAL,NONE
+2023-09-11,Synthetic Dengue,Texas,34.0,600000,synthetic,False,NORMAL,NONE
+2023-09-18,Synthetic Dengue,Texas,32.0,600000,synthetic,False,NORMAL,NONE
+2023-09-25,Synthetic Dengue,Texas,33.0,600000,synthetic,False,NORMAL,NONE
+2023-10-02,Synthetic Dengue,Texas,33.0,600000,synthetic,False,NORMAL,NONE
+2023-10-09,Synthetic Dengue,Texas,28.0,600000,synthetic,False,NORMAL,NONE
+2023-10-16,Synthetic Dengue,Texas,29.0,600000,synthetic,False,NORMAL,NONE
+2023-10-23,Synthetic Dengue,Texas,34.0,600000,synthetic,False,NORMAL,NONE
+2023-10-30,Synthetic Dengue,Texas,34.0,600000,synthetic,False,NORMAL,NONE
+2023-11-06,Synthetic Dengue,Texas,33.0,600000,synthetic,False,NORMAL,NONE
+2023-11-13,Synthetic Dengue,Texas,34.0,600000,synthetic,False,NORMAL,NONE
+2023-11-20,Synthetic Dengue,Texas,39.0,600000,synthetic,False,NORMAL,NONE
+2023-11-27,Synthetic Dengue,Texas,34.0,600000,synthetic,False,NORMAL,NONE
+2023-12-04,Synthetic Dengue,Texas,39.0,600000,synthetic,False,NORMAL,NONE
+2023-12-11,Synthetic Dengue,Texas,38.0,600000,synthetic,False,NORMAL,NONE
+2023-12-18,Synthetic Dengue,Texas,40.0,600000,synthetic,False,NORMAL,NONE
+2023-12-25,Synthetic Dengue,Texas,45.0,600000,synthetic,False,NORMAL,NONE
+2024-01-01,Synthetic Dengue,Texas,46.0,600000,synthetic,False,NORMAL,NONE
+2024-01-08,Synthetic Dengue,Texas,47.0,600000,synthetic,False,NORMAL,NONE
+2024-01-15,Synthetic Dengue,Texas,50.0,600000,synthetic,False,NORMAL,NONE
+2024-01-22,Synthetic Dengue,Texas,48.0,600000,synthetic,False,NORMAL,NONE
+2024-01-29,Synthetic Dengue,Texas,51.0,600000,synthetic,False,NORMAL,NONE
+2024-02-05,Synthetic Dengue,Texas,49.0,600000,synthetic,False,NORMAL,NONE
+2024-02-12,Synthetic Dengue,Texas,52.0,600000,synthetic,False,NORMAL,NONE
+2024-02-19,Synthetic Dengue,Texas,52.0,600000,synthetic,False,NORMAL,NONE
+2024-02-26,Synthetic Dengue,Texas,54.0,600000,synthetic,False,NORMAL,NONE
+2024-03-04,Synthetic Dengue,Texas,56.0,600000,synthetic,False,NORMAL,NONE
+2024-03-11,Synthetic Dengue,Texas,52.0,600000,synthetic,False,NORMAL,NONE
+2024-03-18,Synthetic Dengue,Texas,61.0,600000,synthetic,False,NORMAL,NONE
+2024-03-25,Synthetic Dengue,Texas,52.0,600000,synthetic,False,NORMAL,NONE
+2024-04-01,Synthetic Dengue,Texas,52.0,600000,synthetic,False,NORMAL,NONE
+2024-04-08,Synthetic Dengue,Texas,59.0,600000,synthetic,False,NORMAL,NONE
+2024-04-15,Synthetic Dengue,Texas,58.0,600000,synthetic,False,NORMAL,NONE
+2024-04-22,Synthetic Dengue,Texas,57.0,600000,synthetic,False,NORMAL,NONE
+2024-04-29,Synthetic Dengue,Texas,56.0,600000,synthetic,False,NORMAL,NONE
+2024-05-06,Synthetic Dengue,Texas,53.0,600000,synthetic,False,NORMAL,NONE
+2024-05-13,Synthetic Dengue,Texas,50.0,600000,synthetic,False,NORMAL,NONE
+2024-05-20,Synthetic Dengue,Texas,52.0,600000,synthetic,False,NORMAL,NONE
+2024-05-27,Synthetic Dengue,Texas,49.0,600000,synthetic,False,NORMAL,NONE
+2024-06-03,Synthetic Dengue,Texas,52.0,600000,synthetic,False,NORMAL,NONE
+2024-06-10,Synthetic Dengue,Texas,48.0,600000,synthetic,False,NORMAL,NONE
+2024-06-17,Synthetic Dengue,Texas,44.0,600000,synthetic,False,NORMAL,NONE
+2024-06-24,Synthetic Dengue,Texas,44.0,600000,synthetic,False,NORMAL,NONE
+2024-07-01,Synthetic Dengue,Texas,45.0,600000,synthetic,False,NORMAL,NONE
+2024-07-08,Synthetic Dengue,Texas,41.0,600000,synthetic,False,NORMAL,NONE
+2024-07-15,Synthetic Dengue,Texas,39.0,600000,synthetic,False,NORMAL,NONE
+2024-07-22,Synthetic Dengue,Texas,40.0,600000,synthetic,False,NORMAL,NONE
+2024-07-29,Synthetic Dengue,Texas,39.0,600000,synthetic,False,NORMAL,NONE
+2024-08-05,Synthetic Dengue,Texas,36.0,600000,synthetic,False,NORMAL,NONE
+2024-08-12,Synthetic Dengue,Texas,35.0,600000,synthetic,False,NORMAL,NONE
+2024-08-19,Synthetic Dengue,Texas,36.0,600000,synthetic,False,NORMAL,NONE
+2024-08-26,Synthetic Dengue,Texas,30.0,600000,synthetic,False,NORMAL,NONE
+2024-09-02,Synthetic Dengue,Texas,29.0,600000,synthetic,False,NORMAL,NONE
+2024-09-09,Synthetic Dengue,Texas,31.0,600000,synthetic,False,NORMAL,NONE
+2024-09-16,Synthetic Dengue,Texas,32.0,600000,synthetic,False,NORMAL,NONE
+2024-09-23,Synthetic Dengue,Texas,33.0,600000,synthetic,False,NORMAL,NONE
+2024-09-30,Synthetic Dengue,Texas,37.0,600000,synthetic,False,NORMAL,NONE
+2024-10-07,Synthetic Dengue,Texas,35.0,600000,synthetic,False,NORMAL,NONE
+2024-10-14,Synthetic Dengue,Texas,32.0,600000,synthetic,False,NORMAL,NONE
+2024-10-21,Synthetic Dengue,Texas,33.0,600000,synthetic,False,NORMAL,NONE
+2024-10-28,Synthetic Dengue,Texas,31.0,600000,synthetic,False,NORMAL,NONE
+2024-11-04,Synthetic Dengue,Texas,35.0,600000,synthetic,False,NORMAL,NONE
+2024-11-11,Synthetic Dengue,Texas,35.0,600000,synthetic,False,NORMAL,NONE
+2024-11-18,Synthetic Dengue,Texas,38.0,600000,synthetic,False,NORMAL,NONE
+2024-11-25,Synthetic Dengue,Texas,35.0,600000,synthetic,False,NORMAL,NONE
+2024-12-02,Synthetic Dengue,Texas,41.0,600000,synthetic,False,NORMAL,NONE
+2024-12-09,Synthetic Dengue,Texas,45.0,600000,synthetic,False,NORMAL,NONE
+2024-12-16,Synthetic Dengue,Texas,41.0,600000,synthetic,False,NORMAL,NONE
+2024-12-23,Synthetic Dengue,Texas,44.0,600000,synthetic,False,NORMAL,NONE
+2024-12-30,Synthetic Dengue,Texas,47.0,600000,synthetic,False,NORMAL,NONE
+2025-01-06,Synthetic Dengue,Texas,45.0,600000,synthetic,False,NORMAL,NONE
+2025-01-13,Synthetic Dengue,Texas,48.0,600000,synthetic,False,NORMAL,NONE
+2025-01-20,Synthetic Dengue,Texas,49.0,600000,synthetic,False,NORMAL,NONE
+2025-01-27,Synthetic Dengue,Texas,51.0,600000,synthetic,False,NORMAL,NONE
+2025-02-03,Synthetic Dengue,Texas,49.0,600000,synthetic,False,NORMAL,NONE
+2025-02-10,Synthetic Dengue,Texas,53.0,600000,synthetic,False,NORMAL,NONE
+2025-02-17,Synthetic Dengue,Texas,55.0,600000,synthetic,False,NORMAL,NONE
+2025-02-24,Synthetic Dengue,Texas,59.0,600000,synthetic,False,NORMAL,NONE
+2025-03-03,Synthetic Dengue,Texas,290.0,600000,synthetic,True,ISOLATED_SPIKE,NONE
+2025-03-10,Synthetic Dengue,Texas,63.0,600000,synthetic,False,NORMAL,NONE
+2025-03-17,Synthetic Dengue,Texas,54.0,600000,synthetic,False,NORMAL,NONE
+2025-03-24,Synthetic Dengue,Texas,60.0,600000,synthetic,False,NORMAL,NONE
+2025-03-31,Synthetic Dengue,Texas,58.0,600000,synthetic,False,NORMAL,NONE
+2025-04-07,Synthetic Dengue,Texas,64.0,600000,synthetic,False,NORMAL,NONE
+2025-04-14,Synthetic Dengue,Texas,54.0,600000,synthetic,False,NORMAL,NONE
+2025-04-21,Synthetic Dengue,Texas,54.0,600000,synthetic,False,NORMAL,NONE
+2025-04-28,Synthetic Dengue,Texas,54.0,600000,synthetic,False,NORMAL,NONE
+2025-05-05,Synthetic Dengue,Texas,49.0,600000,synthetic,False,NORMAL,NONE
+2025-05-12,Synthetic Dengue,Texas,53.0,600000,synthetic,False,NORMAL,NONE
+2025-05-19,Synthetic Dengue,Texas,51.0,600000,synthetic,False,NORMAL,NONE
+2025-05-26,Synthetic Dengue,Texas,53.0,600000,synthetic,False,NORMAL,NONE
+2025-06-02,Synthetic Dengue,Texas,52.0,600000,synthetic,False,NORMAL,NONE
+2025-06-09,Synthetic Dengue,Texas,55.0,600000,synthetic,False,NORMAL,NONE
+2025-06-16,Synthetic Dengue,Texas,51.0,600000,synthetic,False,NORMAL,NONE
+2025-06-23,Synthetic Dengue,Texas,45.0,600000,synthetic,False,NORMAL,NONE
+2025-06-30,Synthetic Dengue,Texas,43.0,600000,synthetic,False,NORMAL,NONE
+2025-07-07,Synthetic Dengue,Texas,46.0,600000,synthetic,False,NORMAL,NONE
+2025-07-14,Synthetic Dengue,Texas,39.0,600000,synthetic,False,NORMAL,NONE
+2025-07-21,Synthetic Dengue,Texas,47.0,600000,synthetic,False,NORMAL,NONE
+2025-07-28,Synthetic Dengue,Texas,44.0,600000,synthetic,False,NORMAL,NONE
+2025-08-04,Synthetic Dengue,Texas,37.0,600000,synthetic,False,NORMAL,NONE
+2025-08-11,Synthetic Dengue,Texas,33.0,600000,synthetic,False,NORMAL,NONE
+2025-08-18,Synthetic Dengue,Texas,41.0,600000,synthetic,False,NORMAL,NONE
+2025-08-25,Synthetic Dengue,Texas,35.0,600000,synthetic,False,NORMAL,NONE
+2025-09-01,Synthetic Dengue,Texas,39.0,600000,synthetic,False,NORMAL,NONE
+2025-09-08,Synthetic Dengue,Texas,30.0,600000,synthetic,False,NORMAL,NONE
+2025-09-15,Synthetic Dengue,Texas,32.0,600000,synthetic,False,NORMAL,NONE
+2025-09-22,Synthetic Dengue,Texas,34.0,600000,synthetic,False,NORMAL,NONE
+2025-09-29,Synthetic Dengue,Texas,34.0,600000,synthetic,False,NORMAL,NONE
+2025-10-06,Synthetic Dengue,Texas,33.0,600000,synthetic,False,NORMAL,NONE
+2025-10-13,Synthetic Dengue,Texas,36.0,600000,synthetic,False,NORMAL,NONE
+2025-10-20,Synthetic Dengue,Texas,32.0,600000,synthetic,False,NORMAL,NONE
+2025-10-27,Synthetic Dengue,Texas,35.0,600000,synthetic,False,NORMAL,NONE
+2025-11-03,Synthetic Dengue,Texas,36.0,600000,synthetic,False,NORMAL,NONE
+2025-11-10,Synthetic Dengue,Texas,39.0,600000,synthetic,False,NORMAL,NONE
+2025-11-17,Synthetic Dengue,Texas,40.0,600000,synthetic,False,NORMAL,NONE
+2025-11-24,Synthetic Dengue,Texas,36.0,600000,synthetic,False,NORMAL,NONE
+2025-12-01,Synthetic Dengue,Texas,36.0,600000,synthetic,False,NORMAL,NONE
+2025-12-08,Synthetic Dengue,Texas,46.0,600000,synthetic,False,NORMAL,NONE
+2025-12-15,Synthetic Dengue,Texas,44.0,600000,synthetic,False,NORMAL,NONE
+2025-12-22,Synthetic Dengue,Texas,43.0,600000,synthetic,False,NORMAL,NONE
+2022-01-03,Synthetic Dengue,Virginia,67.0,900000,synthetic,False,NORMAL,NONE
+2022-01-10,Synthetic Dengue,Virginia,70.0,900000,synthetic,False,NORMAL,NONE
+2022-01-17,Synthetic Dengue,Virginia,74.0,900000,synthetic,False,NORMAL,NONE
+2022-01-24,Synthetic Dengue,Virginia,77.0,900000,synthetic,False,NORMAL,NONE
+2022-01-31,Synthetic Dengue,Virginia,83.0,900000,synthetic,False,NORMAL,NONE
+2022-02-07,Synthetic Dengue,Virginia,77.0,900000,synthetic,False,NORMAL,NONE
+2022-02-14,Synthetic Dengue,Virginia,85.0,900000,synthetic,False,NORMAL,NONE
+2022-02-21,Synthetic Dengue,Virginia,83.0,900000,synthetic,False,NORMAL,NONE
+2022-02-28,Synthetic Dengue,Virginia,85.0,900000,synthetic,False,NORMAL,NONE
+2022-03-07,Synthetic Dengue,Virginia,88.0,900000,synthetic,False,NORMAL,NONE
+2022-03-14,Synthetic Dengue,Virginia,84.0,900000,synthetic,False,NORMAL,NONE
+2022-03-21,Synthetic Dengue,Virginia,89.0,900000,synthetic,False,NORMAL,NONE
+2022-03-28,Synthetic Dengue,Virginia,89.0,900000,synthetic,False,NORMAL,NONE
+2022-04-04,Synthetic Dengue,Virginia,90.0,900000,synthetic,False,NORMAL,NONE
+2022-04-11,Synthetic Dengue,Virginia,89.0,900000,synthetic,False,NORMAL,NONE
+2022-04-18,Synthetic Dengue,Virginia,95.0,900000,synthetic,False,NORMAL,NONE
+2022-04-25,Synthetic Dengue,Virginia,85.0,900000,synthetic,False,NORMAL,NONE
+2022-05-02,Synthetic Dengue,Virginia,85.0,900000,synthetic,False,NORMAL,NONE
+2022-05-09,Synthetic Dengue,Virginia,83.0,900000,synthetic,False,NORMAL,NONE
+2022-05-16,Synthetic Dengue,Virginia,82.0,900000,synthetic,False,NORMAL,NONE
+2022-05-23,Synthetic Dengue,Virginia,81.0,900000,synthetic,False,NORMAL,NONE
+2022-05-30,Synthetic Dengue,Virginia,84.0,900000,synthetic,False,NORMAL,NONE
+2022-06-06,Synthetic Dengue,Virginia,83.0,900000,synthetic,False,NORMAL,NONE
+2022-06-13,Synthetic Dengue,Virginia,75.0,900000,synthetic,False,NORMAL,NONE
+2022-06-20,Synthetic Dengue,Virginia,73.0,900000,synthetic,False,NORMAL,NONE
+2022-06-27,Synthetic Dengue,Virginia,74.0,900000,synthetic,False,NORMAL,NONE
+2022-07-04,Synthetic Dengue,Virginia,69.0,900000,synthetic,False,NORMAL,NONE
+2022-07-11,Synthetic Dengue,Virginia,71.0,900000,synthetic,False,NORMAL,NONE
+2022-07-18,Synthetic Dengue,Virginia,67.0,900000,synthetic,False,NORMAL,NONE
+2022-07-25,Synthetic Dengue,Virginia,60.0,900000,synthetic,False,NORMAL,NONE
+2022-08-01,Synthetic Dengue,Virginia,67.0,900000,synthetic,False,NORMAL,NONE
+2022-08-08,Synthetic Dengue,Virginia,66.0,900000,synthetic,False,NORMAL,NONE
+2022-08-15,Synthetic Dengue,Virginia,57.0,900000,synthetic,False,NORMAL,NONE
+2022-08-22,Synthetic Dengue,Virginia,56.0,900000,synthetic,False,NORMAL,NONE
+2022-08-29,Synthetic Dengue,Virginia,57.0,900000,synthetic,False,NORMAL,NONE
+2022-09-05,Synthetic Dengue,Virginia,56.0,900000,synthetic,False,NORMAL,NONE
+2022-09-12,Synthetic Dengue,Virginia,56.0,900000,synthetic,False,NORMAL,NONE
+2022-09-19,Synthetic Dengue,Virginia,60.0,900000,synthetic,False,NORMAL,NONE
+2022-09-26,Synthetic Dengue,Virginia,53.0,900000,synthetic,False,NORMAL,NONE
+2022-10-03,Synthetic Dengue,Virginia,51.0,900000,synthetic,False,NORMAL,NONE
+2022-10-10,Synthetic Dengue,Virginia,49.0,900000,synthetic,False,NORMAL,NONE
+2022-10-17,Synthetic Dengue,Virginia,52.0,900000,synthetic,False,NORMAL,NONE
+2022-10-24,Synthetic Dengue,Virginia,54.0,900000,synthetic,False,NORMAL,NONE
+2022-10-31,Synthetic Dengue,Virginia,61.0,900000,synthetic,False,NORMAL,NONE
+2022-11-07,Synthetic Dengue,Virginia,55.0,900000,synthetic,False,NORMAL,NONE
+2022-11-14,Synthetic Dengue,Virginia,59.0,900000,synthetic,False,NORMAL,NONE
+2022-11-21,Synthetic Dengue,Virginia,59.0,900000,synthetic,False,NORMAL,NONE
+2022-11-28,Synthetic Dengue,Virginia,65.0,900000,synthetic,False,NORMAL,NONE
+2022-12-05,Synthetic Dengue,Virginia,71.0,900000,synthetic,False,NORMAL,NONE
+2022-12-12,Synthetic Dengue,Virginia,63.0,900000,synthetic,False,NORMAL,NONE
+2022-12-19,Synthetic Dengue,Virginia,66.0,900000,synthetic,False,NORMAL,NONE
+2022-12-26,Synthetic Dengue,Virginia,72.0,900000,synthetic,False,NORMAL,NONE
+2023-01-02,Synthetic Dengue,Virginia,74.0,900000,synthetic,False,NORMAL,NONE
+2023-01-09,Synthetic Dengue,Virginia,79.0,900000,synthetic,False,NORMAL,NONE
+2023-01-16,Synthetic Dengue,Virginia,78.0,900000,synthetic,False,NORMAL,NONE
+2023-01-23,Synthetic Dengue,Virginia,77.0,900000,synthetic,False,NORMAL,NONE
+2023-01-30,Synthetic Dengue,Virginia,82.0,900000,synthetic,False,NORMAL,NONE
+2023-02-06,Synthetic Dengue,Virginia,85.0,900000,synthetic,False,NORMAL,NONE
+2023-02-13,Synthetic Dengue,Virginia,86.0,900000,synthetic,False,NORMAL,NONE
+2023-02-20,Synthetic Dengue,Virginia,87.0,900000,synthetic,False,NORMAL,NONE
+2023-02-27,Synthetic Dengue,Virginia,90.0,900000,synthetic,False,NORMAL,NONE
+2023-03-06,Synthetic Dengue,Virginia,91.0,900000,synthetic,False,NORMAL,NONE
+2023-03-13,Synthetic Dengue,Virginia,93.0,900000,synthetic,False,NORMAL,NONE
+2023-03-20,Synthetic Dengue,Virginia,91.0,900000,synthetic,False,NORMAL,NONE
+2023-03-27,Synthetic Dengue,Virginia,89.0,900000,synthetic,False,NORMAL,NONE
+2023-04-03,Synthetic Dengue,Virginia,90.0,900000,synthetic,False,NORMAL,NONE
+2023-04-10,Synthetic Dengue,Virginia,93.0,900000,synthetic,False,NORMAL,NONE
+2023-04-17,Synthetic Dengue,Virginia,87.0,900000,synthetic,False,NORMAL,NONE
+2023-04-24,Synthetic Dengue,Virginia,90.0,900000,synthetic,False,NORMAL,NONE
+2023-05-01,Synthetic Dengue,Virginia,87.0,900000,synthetic,False,NORMAL,NONE
+2023-05-08,Synthetic Dengue,Virginia,87.0,900000,synthetic,False,NORMAL,NONE
+2023-05-15,Synthetic Dengue,Virginia,89.0,900000,synthetic,False,NORMAL,NONE
+2023-05-22,Synthetic Dengue,Virginia,85.0,900000,synthetic,False,NORMAL,NONE
+2023-05-29,Synthetic Dengue,Virginia,83.0,900000,synthetic,False,NORMAL,NONE
+2023-06-05,Synthetic Dengue,Virginia,77.0,900000,synthetic,False,NORMAL,NONE
+2023-06-12,Synthetic Dengue,Virginia,81.0,900000,synthetic,False,NORMAL,NONE
+2023-06-19,Synthetic Dengue,Virginia,79.0,900000,synthetic,False,NORMAL,NONE
+2023-06-26,Synthetic Dengue,Virginia,81.0,900000,synthetic,False,NORMAL,NONE
+2023-07-03,Synthetic Dengue,Virginia,71.0,900000,synthetic,False,NORMAL,NONE
+2023-07-10,Synthetic Dengue,Virginia,71.0,900000,synthetic,False,NORMAL,NONE
+2023-07-17,Synthetic Dengue,Virginia,69.0,900000,synthetic,False,NORMAL,NONE
+2023-07-24,Synthetic Dengue,Virginia,71.0,900000,synthetic,False,NORMAL,NONE
+2023-07-31,Synthetic Dengue,Virginia,64.0,900000,synthetic,False,NORMAL,NONE
+2023-08-07,Synthetic Dengue,Virginia,63.0,900000,synthetic,False,NORMAL,NONE
+2023-08-14,Synthetic Dengue,Virginia,62.0,900000,synthetic,False,NORMAL,NONE
+2023-08-21,Synthetic Dengue,Virginia,60.0,900000,synthetic,False,NORMAL,NONE
+2023-08-28,Synthetic Dengue,Virginia,56.0,900000,synthetic,False,NORMAL,NONE
+2023-09-04,Synthetic Dengue,Virginia,57.0,900000,synthetic,False,NORMAL,NONE
+2023-09-11,Synthetic Dengue,Virginia,59.0,900000,synthetic,False,NORMAL,NONE
+2023-09-18,Synthetic Dengue,Virginia,52.0,900000,synthetic,False,NORMAL,NONE
+2023-09-25,Synthetic Dengue,Virginia,55.0,900000,synthetic,False,NORMAL,NONE
+2023-10-02,Synthetic Dengue,Virginia,53.0,900000,synthetic,False,NORMAL,NONE
+2023-10-09,Synthetic Dengue,Virginia,58.0,900000,synthetic,False,NORMAL,NONE
+2023-10-16,Synthetic Dengue,Virginia,51.0,900000,synthetic,False,NORMAL,NONE
+2023-10-23,Synthetic Dengue,Virginia,54.0,900000,synthetic,False,NORMAL,NONE
+2023-10-30,Synthetic Dengue,Virginia,58.0,900000,synthetic,False,NORMAL,NONE
+2023-11-06,Synthetic Dengue,Virginia,63.0,900000,synthetic,False,NORMAL,NONE
+2023-11-13,Synthetic Dengue,Virginia,59.0,900000,synthetic,False,NORMAL,NONE
+2023-11-20,Synthetic Dengue,Virginia,59.0,900000,synthetic,False,NORMAL,NONE
+2023-11-27,Synthetic Dengue,Virginia,68.0,900000,synthetic,False,NORMAL,NONE
+2023-12-04,Synthetic Dengue,Virginia,60.0,900000,synthetic,False,NORMAL,NONE
+2023-12-11,Synthetic Dengue,Virginia,60.0,900000,synthetic,False,NORMAL,NONE
+2023-12-18,Synthetic Dengue,Virginia,70.0,900000,synthetic,False,NORMAL,NONE
+2023-12-25,Synthetic Dengue,Virginia,69.0,900000,synthetic,False,NORMAL,NONE
+2024-01-01,Synthetic Dengue,Virginia,70.0,900000,synthetic,False,NORMAL,NONE
+2024-01-08,Synthetic Dengue,Virginia,77.0,900000,synthetic,False,NORMAL,NONE
+2024-01-15,Synthetic Dengue,Virginia,78.0,900000,synthetic,False,NORMAL,NONE
+2024-01-22,Synthetic Dengue,Virginia,78.0,900000,synthetic,False,NORMAL,NONE
+2024-01-29,Synthetic Dengue,Virginia,78.0,900000,synthetic,False,NORMAL,NONE
+2024-02-05,Synthetic Dengue,Virginia,86.0,900000,synthetic,False,NORMAL,NONE
+2024-02-12,Synthetic Dengue,Virginia,87.0,900000,synthetic,False,NORMAL,NONE
+2024-02-19,Synthetic Dengue,Virginia,87.0,900000,synthetic,False,NORMAL,NONE
+2024-02-26,Synthetic Dengue,Virginia,94.0,900000,synthetic,False,NORMAL,NONE
+2024-03-04,Synthetic Dengue,Virginia,86.0,900000,synthetic,False,NORMAL,NONE
+2024-03-11,Synthetic Dengue,Virginia,86.0,900000,synthetic,False,NORMAL,NONE
+2024-03-18,Synthetic Dengue,Virginia,89.0,900000,synthetic,False,NORMAL,NONE
+2024-03-25,Synthetic Dengue,Virginia,91.0,900000,synthetic,False,NORMAL,NONE
+2024-04-01,Synthetic Dengue,Virginia,,900000,synthetic,False,NORMAL,MISSING_VALUE
+2024-04-08,Synthetic Dengue,Virginia,,900000,synthetic,False,NORMAL,MISSING_VALUE
+2024-04-15,Synthetic Dengue,Virginia,92.0,900000,synthetic,False,NORMAL,NONE
+2024-04-22,Synthetic Dengue,Virginia,87.0,900000,synthetic,False,NORMAL,NONE
+2024-04-29,Synthetic Dengue,Virginia,94.0,900000,synthetic,False,NORMAL,NONE
+2024-05-06,Synthetic Dengue,Virginia,88.0,900000,synthetic,False,NORMAL,NONE
+2024-05-13,Synthetic Dengue,Virginia,91.0,900000,synthetic,False,NORMAL,NONE
+2024-05-20,Synthetic Dengue,Virginia,87.0,900000,synthetic,False,NORMAL,NONE
+2024-05-27,Synthetic Dengue,Virginia,85.0,900000,synthetic,False,NORMAL,NONE
+2024-06-03,Synthetic Dengue,Virginia,84.0,900000,synthetic,False,NORMAL,NONE
+2024-06-10,Synthetic Dengue,Virginia,82.0,900000,synthetic,False,NORMAL,NONE
+2024-06-17,Synthetic Dengue,Virginia,80.0,900000,synthetic,False,NORMAL,NONE
+2024-06-24,Synthetic Dengue,Virginia,80.0,900000,synthetic,False,NORMAL,NONE
+2024-07-01,Synthetic Dengue,Virginia,74.0,900000,synthetic,False,NORMAL,NONE
+2024-07-08,Synthetic Dengue,Virginia,74.0,900000,synthetic,False,NORMAL,NONE
+2024-07-15,Synthetic Dengue,Virginia,69.0,900000,synthetic,False,NORMAL,NONE
+2024-07-22,Synthetic Dengue,Virginia,72.0,900000,synthetic,False,NORMAL,NONE
+2024-07-29,Synthetic Dengue,Virginia,64.0,900000,synthetic,False,NORMAL,NONE
+2024-08-05,Synthetic Dengue,Virginia,69.0,900000,synthetic,False,NORMAL,NONE
+2024-08-12,Synthetic Dengue,Virginia,62.0,900000,synthetic,False,NORMAL,NONE
+2024-08-19,Synthetic Dengue,Virginia,56.0,900000,synthetic,False,NORMAL,NONE
+2024-08-26,Synthetic Dengue,Virginia,60.0,900000,synthetic,False,NORMAL,NONE
+2024-09-02,Synthetic Dengue,Virginia,56.0,900000,synthetic,False,NORMAL,NONE
+2024-09-09,Synthetic Dengue,Virginia,60.0,900000,synthetic,False,NORMAL,NONE
+2024-09-16,Synthetic Dengue,Virginia,55.0,900000,synthetic,False,NORMAL,NONE
+2024-09-23,Synthetic Dengue,Virginia,55.0,900000,synthetic,False,NORMAL,NONE
+2024-09-30,Synthetic Dengue,Virginia,51.0,900000,synthetic,False,NORMAL,NONE
+2024-10-07,Synthetic Dengue,Virginia,55.0,900000,synthetic,False,NORMAL,NONE
+2024-10-14,Synthetic Dengue,Virginia,50.0,900000,synthetic,False,NORMAL,NONE
+2024-10-21,Synthetic Dengue,Virginia,53.0,900000,synthetic,False,NORMAL,NONE
+2024-10-28,Synthetic Dengue,Virginia,61.0,900000,synthetic,False,NORMAL,NONE
+2024-11-04,Synthetic Dengue,Virginia,62.0,900000,synthetic,False,NORMAL,NONE
+2024-11-11,Synthetic Dengue,Virginia,62.0,900000,synthetic,False,NORMAL,NONE
+2024-11-18,Synthetic Dengue,Virginia,60.0,900000,synthetic,False,NORMAL,NONE
+2024-11-25,Synthetic Dengue,Virginia,64.0,900000,synthetic,False,NORMAL,NONE
+2024-12-02,Synthetic Dengue,Virginia,66.0,900000,synthetic,False,NORMAL,NONE
+2024-12-09,Synthetic Dengue,Virginia,65.0,900000,synthetic,False,NORMAL,NONE
+2024-12-16,Synthetic Dengue,Virginia,75.0,900000,synthetic,False,NORMAL,NONE
+2024-12-23,Synthetic Dengue,Virginia,75.0,900000,synthetic,False,NORMAL,NONE
+2024-12-30,Synthetic Dengue,Virginia,74.0,900000,synthetic,False,NORMAL,NONE
+2025-01-06,Synthetic Dengue,Virginia,77.0,900000,synthetic,False,NORMAL,NONE
+2025-01-13,Synthetic Dengue,Virginia,80.0,900000,synthetic,False,NORMAL,NONE
+2025-01-20,Synthetic Dengue,Virginia,75.0,900000,synthetic,False,NORMAL,NONE
+2025-01-27,Synthetic Dengue,Virginia,82.0,900000,synthetic,False,NORMAL,NONE
+2025-02-03,Synthetic Dengue,Virginia,83.0,900000,synthetic,False,NORMAL,NONE
+2025-02-10,Synthetic Dengue,Virginia,84.0,900000,synthetic,False,NORMAL,NONE
+2025-02-17,Synthetic Dengue,Virginia,88.0,900000,synthetic,False,NORMAL,NONE
+2025-02-24,Synthetic Dengue,Virginia,95.0,900000,synthetic,False,NORMAL,NONE
+2025-03-03,Synthetic Dengue,Virginia,93.0,900000,synthetic,False,NORMAL,NONE
+2025-03-10,Synthetic Dengue,Virginia,90.0,900000,synthetic,False,NORMAL,NONE
+2025-03-17,Synthetic Dengue,Virginia,94.0,900000,synthetic,False,NORMAL,NONE
+2025-03-24,Synthetic Dengue,Virginia,97.0,900000,synthetic,False,NORMAL,NONE
+2025-03-31,Synthetic Dengue,Virginia,96.0,900000,synthetic,False,NORMAL,NONE
+2025-04-07,Synthetic Dengue,Virginia,93.0,900000,synthetic,False,NORMAL,NONE
+2025-04-14,Synthetic Dengue,Virginia,91.0,900000,synthetic,False,NORMAL,NONE
+2025-04-21,Synthetic Dengue,Virginia,94.0,900000,synthetic,False,NORMAL,NONE
+2025-04-28,Synthetic Dengue,Virginia,92.0,900000,synthetic,False,NORMAL,NONE
+2025-05-05,Synthetic Dengue,Virginia,93.0,900000,synthetic,False,NORMAL,NONE
+2025-05-12,Synthetic Dengue,Virginia,91.0,900000,synthetic,False,NORMAL,NONE
+2025-05-19,Synthetic Dengue,Virginia,90.0,900000,synthetic,False,NORMAL,NONE
+2025-05-26,Synthetic Dengue,Virginia,84.0,900000,synthetic,False,NORMAL,NONE
+2025-06-02,Synthetic Dengue,Virginia,88.0,900000,synthetic,False,NORMAL,NONE
+2025-06-09,Synthetic Dengue,Virginia,82.0,900000,synthetic,False,NORMAL,NONE
+2025-06-16,Synthetic Dengue,Virginia,86.0,900000,synthetic,False,NORMAL,NONE
+2025-06-23,Synthetic Dengue,Virginia,76.0,900000,synthetic,False,NORMAL,NONE
+2025-06-30,Synthetic Dengue,Virginia,81.0,900000,synthetic,False,NORMAL,NONE
+2025-07-07,Synthetic Dengue,Virginia,74.0,900000,synthetic,False,NORMAL,NONE
+2025-07-14,Synthetic Dengue,Virginia,69.0,900000,synthetic,False,NORMAL,NONE
+2025-07-21,Synthetic Dengue,Virginia,68.0,900000,synthetic,False,NORMAL,NONE
+2025-07-28,Synthetic Dengue,Virginia,66.0,900000,synthetic,False,NORMAL,NONE
+2025-08-04,Synthetic Dengue,Virginia,67.0,900000,synthetic,False,NORMAL,NONE
+2025-08-11,Synthetic Dengue,Virginia,65.0,900000,synthetic,False,NORMAL,NONE
+2025-08-18,Synthetic Dengue,Virginia,60.0,900000,synthetic,False,NORMAL,NONE
+2025-08-25,Synthetic Dengue,Virginia,61.0,900000,synthetic,False,NORMAL,NONE
+2025-09-01,Synthetic Dengue,Virginia,66.0,900000,synthetic,False,NORMAL,NONE
+2025-09-08,Synthetic Dengue,Virginia,64.0,900000,synthetic,False,NORMAL,NONE
+2025-09-15,Synthetic Dengue,Virginia,60.0,900000,synthetic,False,NORMAL,NONE
+2025-09-22,Synthetic Dengue,Virginia,58.0,900000,synthetic,False,NORMAL,NONE
+2025-09-29,Synthetic Dengue,Virginia,58.0,900000,synthetic,False,NORMAL,NONE
+2025-10-06,Synthetic Dengue,Virginia,60.0,900000,synthetic,False,NORMAL,NONE
+2025-10-13,Synthetic Dengue,Virginia,55.0,900000,synthetic,False,NORMAL,NONE
+2025-10-20,Synthetic Dengue,Virginia,58.0,900000,synthetic,False,NORMAL,NONE
+2025-10-27,Synthetic Dengue,Virginia,55.0,900000,synthetic,False,NORMAL,NONE
+2025-11-03,Synthetic Dengue,Virginia,62.0,900000,synthetic,False,NORMAL,NONE
+2025-11-10,Synthetic Dengue,Virginia,64.0,900000,synthetic,False,NORMAL,NONE
+2025-11-17,Synthetic Dengue,Virginia,63.0,900000,synthetic,False,NORMAL,NONE
+2025-11-24,Synthetic Dengue,Virginia,71.0,900000,synthetic,False,NORMAL,NONE
+2025-12-01,Synthetic Dengue,Virginia,64.0,900000,synthetic,False,NORMAL,NONE
+2025-12-08,Synthetic Dengue,Virginia,65.0,900000,synthetic,False,NORMAL,NONE
+2025-12-15,Synthetic Dengue,Virginia,73.0,900000,synthetic,False,NORMAL,NONE
+2025-12-22,Synthetic Dengue,Virginia,77.0,900000,synthetic,False,NORMAL,NONE
